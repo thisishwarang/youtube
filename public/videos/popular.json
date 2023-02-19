@@ -1,0 +1,1537 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "7Ph7Xa1Y1H4yOiJgiPN0CwJdi7w",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "4qUYeqsQLEAUbv7JZ1MFPUFul-o",
+            "id": "VQCfbmhIjzo",
+            "snippet": {
+                "publishedAt": "2023-02-15T17:15:11Z",
+                "channelId": "UCuaFvcY4MhZY3U43mMt1dYQ",
+                "title": "The Little Mermaid | Wish",
+                "description": "Continuing the #Disney100 celebration with this new look at #TheLittleMermaid! Just 100 days until it arrives in theaters!\n\nDisney's The Little Mermaid is coming to theaters May 26, 2023.\n\n“The Little Mermaid,” visionary filmmaker Rob Marshall’s live-action reimagining of the studio’s Oscar®-winning animated musical classic, opens exclusively in theaters nationwide May 26, 2023. “The Little Mermaid” is the beloved story of Ariel, a beautiful and spirited young mermaid with a thirst for adventure. The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. While mermaids are forbidden to interact with humans, Ariel must follow her heart. She makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy. \n\nThe film stars singer and actress Halle Bailey (“grown-ish”) as Ariel; Tony Award® winner Daveed Diggs (“Hamilton,” “Snowpiercer”) as the voice of Sebastian; Jacob Tremblay (“Luca,” “Room”) as the voice of Flounder; Awkwafina (“Raya and the Last Dragon”) as the voice of Scuttle; Jonah Hauer-King (“A Dog’s Way Home”) as Prince Eric; Art Malik (“Homeland”) as Sir Grimsby; Noma Dumezweni (“Mary Poppins Returns”) as Queen Selina; with Oscar® winner Javier Bardem (“No Country for Old Men,” “Being the Ricardos”) as King Triton; and two-time Academy Award® nominee Melissa McCarthy (“Can You Ever Forgive Me?” “Bridesmaids”) as Ursula.      \n\n“The Little Mermaid” is directed by Oscar® nominee Rob Marshall (“Chicago,” “Mary Poppins Returns”), and written by two-time Oscar nominee David Magee (“Life of Pi,” “Finding Neverland”), with a live-action story adaptation by David Magee, Rob Marshall, and two-time Emmy winner John DeLuca (“Tony Bennett: An American Classic”), based on the short story by Hans Christian Andersen, and the Disney animated film by Ron Clements and John Musker. The film is produced by two-time Emmy® winner Marc Platt (“Jesus Christ Superstar Live in Concert,” “Grease Live!”), three-time Tony Award® winner Lin-Manuel Miranda (“Hamilton,” “In the Heights”), Rob Marshall, and John DeLuca, with Jeffrey Silver (“The Lion King”) serving as executive producer. The score is by multiple Academy Award® winner Alan Menken (“Beauty and the Beast,” “Aladdin”), who won two Oscars® for the music in the animated version of “The Little Mermaid,” with music supervised and produced by Mike Higham (“Mary Poppins Returns,” “Into the Woods”). Music is by Alan Menken, lyrics are by Howard Ashman and new lyrics are by Lin-Manuel Miranda.\n\nFacebook: @DisneyTheLittleMermaid\nInstagram: @DisneyLittleMermaid\nTwitter: @LittleMermaid\nHashtag: #TheLittleMermaid",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VQCfbmhIjzo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VQCfbmhIjzo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VQCfbmhIjzo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VQCfbmhIjzo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VQCfbmhIjzo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Walt Disney Studios",
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "The Little Mermaid | Wish",
+                    "description": "Continuing the #Disney100 celebration with this new look at #TheLittleMermaid! Just 100 days until it arrives in theaters!\n\nDisney's The Little Mermaid is coming to theaters May 26, 2023.\n\n“The Little Mermaid,” visionary filmmaker Rob Marshall’s live-action reimagining of the studio’s Oscar®-winning animated musical classic, opens exclusively in theaters nationwide May 26, 2023. “The Little Mermaid” is the beloved story of Ariel, a beautiful and spirited young mermaid with a thirst for adventure. The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. While mermaids are forbidden to interact with humans, Ariel must follow her heart. She makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy. \n\nThe film stars singer and actress Halle Bailey (“grown-ish”) as Ariel; Tony Award® winner Daveed Diggs (“Hamilton,” “Snowpiercer”) as the voice of Sebastian; Jacob Tremblay (“Luca,” “Room”) as the voice of Flounder; Awkwafina (“Raya and the Last Dragon”) as the voice of Scuttle; Jonah Hauer-King (“A Dog’s Way Home”) as Prince Eric; Art Malik (“Homeland”) as Sir Grimsby; Noma Dumezweni (“Mary Poppins Returns”) as Queen Selina; with Oscar® winner Javier Bardem (“No Country for Old Men,” “Being the Ricardos”) as King Triton; and two-time Academy Award® nominee Melissa McCarthy (“Can You Ever Forgive Me?” “Bridesmaids”) as Ursula.      \n\n“The Little Mermaid” is directed by Oscar® nominee Rob Marshall (“Chicago,” “Mary Poppins Returns”), and written by two-time Oscar nominee David Magee (“Life of Pi,” “Finding Neverland”), with a live-action story adaptation by David Magee, Rob Marshall, and two-time Emmy winner John DeLuca (“Tony Bennett: An American Classic”), based on the short story by Hans Christian Andersen, and the Disney animated film by Ron Clements and John Musker. The film is produced by two-time Emmy® winner Marc Platt (“Jesus Christ Superstar Live in Concert,” “Grease Live!”), three-time Tony Award® winner Lin-Manuel Miranda (“Hamilton,” “In the Heights”), Rob Marshall, and John DeLuca, with Jeffrey Silver (“The Lion King”) serving as executive producer. The score is by multiple Academy Award® winner Alan Menken (“Beauty and the Beast,” “Aladdin”), who won two Oscars® for the music in the animated version of “The Little Mermaid,” with music supervised and produced by Mike Higham (“Mary Poppins Returns,” “Into the Woods”). Music is by Alan Menken, lyrics are by Howard Ashman and new lyrics are by Lin-Manuel Miranda.\n\nFacebook: @DisneyTheLittleMermaid\nInstagram: @DisneyLittleMermaid\nTwitter: @LittleMermaid\nHashtag: #TheLittleMermaid"
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "tH_DwP26Bbdampda5o2ngvUE3fY",
+            "id": "eO0o4TDlMRM",
+            "snippet": {
+                "publishedAt": "2023-02-14T22:13:46Z",
+                "channelId": "UCET00YnetHT7tOpu12v8jxg",
+                "title": "PSG vs. Bayern: Extended Highlights | UCL Round of 16 - Leg 1 | CBS Sports Golazo",
+                "description": "Extended Highlights, Presented By Heineken\n\nMessi returns to European competition, leading a star-studded PSG side seeking their first UCL title as they host German juggernauts Bayern Munich.\n\nStream every UEFA Champions League match live on Paramount+:\nhttps://www.paramountplus.com/shows/uefa-champions-league/\n \n#UCL #ChampionsLeague #UEFA #PSG #Bayern",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eO0o4TDlMRM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eO0o4TDlMRM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eO0o4TDlMRM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eO0o4TDlMRM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eO0o4TDlMRM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CBS Sports Golazo",
+                "tags": [
+                    "FC Bayern München",
+                    "Paris Saint-Germain",
+                    "Paris Saint-Germain vs. FC Bayern München"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "PSG vs. Bayern: Extended Highlights | UCL Round of 16 - Leg 1 | CBS Sports Golazo",
+                    "description": "Extended Highlights, Presented By Heineken\n\nMessi returns to European competition, leading a star-studded PSG side seeking their first UCL title as they host German juggernauts Bayern Munich.\n\nStream every UEFA Champions League match live on Paramount+:\nhttps://www.paramountplus.com/shows/uefa-champions-league/\n \n#UCL #ChampionsLeague #UEFA #PSG #Bayern"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "dRZZkpkgCdv9IF7hADKrJ8ytsWo",
+            "id": "wAjHQXrIj9o",
+            "snippet": {
+                "publishedAt": "2023-02-14T20:00:09Z",
+                "channelId": "UCmBA_wu8xGg1OfOkfW13Q0Q",
+                "title": "Bad Bunny ft. Bomba Estéreo - Ojitos Lindos (Video Oficial) | Un Verano Sin Ti",
+                "description": "Bad Bunny ft. Bomba Estéreo - Ojitos Lindos (Video Oficial)\nUn Verano Sin Ti - https://www.unveranosinti.com/  \n\nSuscríbete al canal - https://rimas.lnk.to/ytBadBunny\n\nMás de Bad Bunny:\nEUTDM - https://RIMAS.lnk.to/EUTDM\nYHLQMDLG - https://rimas.io/YHLQMDLG\nX100PRE - https://rimas.io/X100pre​\n\nSigue a Bad Bunny:\nYouTube: https://RIMAS.lnk.to/ytBadBunny\nSpotify: https://RIMAS.lnk.to/BBSPOTIFY\nApple Music: https://RIMAS.lnk.to/BBapplemusic\nInstagram: https://www.instagram.com/badbunnypr​\n\n#BadBunny ​#UnVeranoSinTi​ #OjitosLindos\n©2023 Rimas Entertainment",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wAjHQXrIj9o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wAjHQXrIj9o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wAjHQXrIj9o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wAjHQXrIj9o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wAjHQXrIj9o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bad Bunny",
+                "tags": [
+                    "bad bunny",
+                    "Bomba Estéreo Bad Bunny",
+                    "Bad BunnyBomba Estéreo",
+                    "ojitos lindos",
+                    "ojitos",
+                    "lindos",
+                    "bad bunny ojitos lindos",
+                    "bad bunny video ojitos lindos",
+                    "ojitos lindos bomba estereo",
+                    "bomba estereo bad bunny",
+                    "bomba estereo ojitos lindos",
+                    "bad bunny bomba estereo video",
+                    "video ojitos lindos bad bunny",
+                    "un verano sin ti ojitos lindos",
+                    "ojitos lindos bad bunny",
+                    "ojitos lindos un verano sin ti",
+                    "bad bunny un verano sin ti ojitos lindos",
+                    "boma estereo un verano sin ti"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Bad Bunny ft. Bomba Estéreo - Ojitos Lindos (Video Oficial) | Un Verano Sin Ti",
+                    "description": "Bad Bunny ft. Bomba Estéreo - Ojitos Lindos (Video Oficial)\nUn Verano Sin Ti - https://www.unveranosinti.com/  \n\nSuscríbete al canal - https://rimas.lnk.to/ytBadBunny\n\nMás de Bad Bunny:\nEUTDM - https://RIMAS.lnk.to/EUTDM\nYHLQMDLG - https://rimas.io/YHLQMDLG\nX100PRE - https://rimas.io/X100pre​\n\nSigue a Bad Bunny:\nYouTube: https://RIMAS.lnk.to/ytBadBunny\nSpotify: https://RIMAS.lnk.to/BBSPOTIFY\nApple Music: https://RIMAS.lnk.to/BBapplemusic\nInstagram: https://www.instagram.com/badbunnypr​\n\n#BadBunny ​#UnVeranoSinTi​ #OjitosLindos\n©2023 Rimas Entertainment"
+                },
+                "defaultAudioLanguage": "es-419"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Iry6Rt0M6atmAp4BwX8M2vyS-9Q",
+            "id": "IYjSmlWG-4A",
+            "snippet": {
+                "publishedAt": "2023-02-14T21:00:15Z",
+                "channelId": "UCUaT_39o1x6qWjz7K2pWcgw",
+                "title": "Funniest Fails On The Internet!",
+                "description": "subscribe for good luck lol \n\nCHECK OUT THESE CHANNELS OR ELSE\n\nFandom\nhttps://www.instagram.com/reel/Ci-H-wkgVsc/?igshid=YWJhMjlhZTc=\n\nNickymca\nhttps://www.youtube.com/watch?v=KBxSntGGm8U\n\nCollab\nhttps://vl.collab.inc/videos/205794\n\nRM_Videos\nhttps://www.youtube.com/shorts/r-pHOKifJ0c\n\nStoryful Viral\nhttps://www.youtube.com/watch?v=icZZKMAnjRQ\n\nIamIcubed\nhttps://www.youtube.com/watch?v=Rh1Z1jhk6nY\n\nJUKIN\nhttps://www.jukinmedia.com/licensing/view/925957\n\nKidsgettinghurt\nhttps://www.instagram.com/reel/CiiCeDGDT5J/?igshid=YmMyMTA2M2Y=\n\nNewsflare\nhttps://www.newsflare.com/video/480663/what-a-disaster-waiter-tries-to-carry-seven-stacked-trays-of-beer-at-once-and-ends-up-spilling-all-of-it-at-bar-in-france\n\nRredite\nhttps://gfycat.com/willingwavygannet\n\nITN Archive \nhttps://www.youtube.com/watch?v=7Qir4EEpawE\n\n_lodge1\nhttps://www.tiktok.com/t/ZTRt5HgEb/\n\nJUKIN\nhttps://www.jukinmedia.com/licensing/view/1202566\n\nStrangestMedia\nhttps://twitter.com/StrangestMedia/status/1617167072395513859\n\nRM Videos\nhttps://www.youtube.com/watch?v=rv7r_z8e2sM\n\nbakerskateboards\nhttps://www.instagram.com/p/BOdegLkgwSw/?utm_source=ig_embed&ig_rid=4310bc0d-b72b-4420-8660-0ec28d3a6434\n\nSky News Australia\nhttps://www.youtube.com/watch?v=TGsqT-Ec1w0\n\nroofershelper\nhttps://www.instagram.com/reel/Cj8tE_2v219/?igshid=YWJhMjlhZTc=\n\nCollab\nhttps://vl.collab.inc/videos/283828\n\nViralHog\nhttps://www.youtube.com/watch?v=dfmAW0IEFrQ\n\nViralHog\nhttps://www.youtube.com/shorts/xuhUWlrSYkI\n\ntyler.lopez96\nhttps://www.instagram.com/tyler.lopez96/\n\nViralHog\nhttps://www.youtube.com/watch?v=JBFtCSUp2DM\n\nGiocatori Di Lana Caprina\nhttps://www.youtube.com/watch?v=ISiWkYITwnQ\n\nKwils87\nhttps://www.reddit.com/r/WatchPeopleDieInside/comments/yqmv8y/my_friend_trying_to_bring_his_glass_table_indoors/\n\nyourcrystalshop\nhttps://www.tiktok.com/t/ZTRQUBQ9U/\n\nBTEKScalesLLC\nhttps://www.facebook.com/BTEKScalesLLC/videos/1118935105426297\n\nFail Army\nhttps://www.tiktok.com/t/ZTRt5DxLo/\n\naryn_thompson\nhttps://www.tiktok.com/t/ZTRt5UCx7/\n\nNewsflare\nhttps://www.newsflare.com/video/441849/thats-gotta-hurt-dog-breaks-out-into-a-sprint-and-slams-owner-holding-onto-its-leash-into-the-railing-in-connecticut?a=on\n\nBuzz Videos via Dailymotion\nhttps://www.dailymotion.com/video/x8eoy7m\n\naaron_vs_the_internet\nhttps://www.instagram.com/reel/Cklj5VjgwCi/?igshid=YmMyMTA2M2Y=\n\ndockrgolf\nhttps://www.instagram.com/reel/CkdorERAlvq/?igshid=YWJhMjlhZTc=\n\nCrappyDesigned\nhttps://twitter.com/CrappyDesigned/status/1613497292094574594\n\nEd Davidson\nhttps://www.linkedin.com/posts/ed-davidson-744b016_eddavidson-safedy-ugcPost-6568130869574320128-Xnzp?utm_source=share&utm_medium=member_desktop\n\nAT305DrSimon\nhttps://www.reddit.com/r/failarmy/comments/z6lhn1/wheel_has_his_own_life_now/\n\nNew Merch - https://shopmrbeast.com\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast6000/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast\n•  Instagram - https://www.instagram.com/beastreacts\n\n--------------------------------------------------------------------",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IYjSmlWG-4A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IYjSmlWG-4A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IYjSmlWG-4A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IYjSmlWG-4A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IYjSmlWG-4A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Beast Reacts",
+                "tags": [
+                    "life hacks",
+                    "crafts",
+                    "slime",
+                    "do it yourself",
+                    "diy",
+                    "lifehacks",
+                    "dily projects",
+                    "useful things",
+                    "how to",
+                    "experiment",
+                    "experiments",
+                    "diy activities",
+                    "handcraft",
+                    "prank",
+                    "funny",
+                    "challenge",
+                    "pranks",
+                    "secret",
+                    "diy slime",
+                    "laugh",
+                    "new",
+                    "skills",
+                    "tricks",
+                    "tips",
+                    "fun"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Funniest Fails On The Internet!",
+                    "description": "subscribe for good luck lol \n\nCHECK OUT THESE CHANNELS OR ELSE\n\nFandom\nhttps://www.instagram.com/reel/Ci-H-wkgVsc/?igshid=YWJhMjlhZTc=\n\nNickymca\nhttps://www.youtube.com/watch?v=KBxSntGGm8U\n\nCollab\nhttps://vl.collab.inc/videos/205794\n\nRM_Videos\nhttps://www.youtube.com/shorts/r-pHOKifJ0c\n\nStoryful Viral\nhttps://www.youtube.com/watch?v=icZZKMAnjRQ\n\nIamIcubed\nhttps://www.youtube.com/watch?v=Rh1Z1jhk6nY\n\nJUKIN\nhttps://www.jukinmedia.com/licensing/view/925957\n\nKidsgettinghurt\nhttps://www.instagram.com/reel/CiiCeDGDT5J/?igshid=YmMyMTA2M2Y=\n\nNewsflare\nhttps://www.newsflare.com/video/480663/what-a-disaster-waiter-tries-to-carry-seven-stacked-trays-of-beer-at-once-and-ends-up-spilling-all-of-it-at-bar-in-france\n\nRredite\nhttps://gfycat.com/willingwavygannet\n\nITN Archive \nhttps://www.youtube.com/watch?v=7Qir4EEpawE\n\n_lodge1\nhttps://www.tiktok.com/t/ZTRt5HgEb/\n\nJUKIN\nhttps://www.jukinmedia.com/licensing/view/1202566\n\nStrangestMedia\nhttps://twitter.com/StrangestMedia/status/1617167072395513859\n\nRM Videos\nhttps://www.youtube.com/watch?v=rv7r_z8e2sM\n\nbakerskateboards\nhttps://www.instagram.com/p/BOdegLkgwSw/?utm_source=ig_embed&ig_rid=4310bc0d-b72b-4420-8660-0ec28d3a6434\n\nSky News Australia\nhttps://www.youtube.com/watch?v=TGsqT-Ec1w0\n\nroofershelper\nhttps://www.instagram.com/reel/Cj8tE_2v219/?igshid=YWJhMjlhZTc=\n\nCollab\nhttps://vl.collab.inc/videos/283828\n\nViralHog\nhttps://www.youtube.com/watch?v=dfmAW0IEFrQ\n\nViralHog\nhttps://www.youtube.com/shorts/xuhUWlrSYkI\n\ntyler.lopez96\nhttps://www.instagram.com/tyler.lopez96/\n\nViralHog\nhttps://www.youtube.com/watch?v=JBFtCSUp2DM\n\nGiocatori Di Lana Caprina\nhttps://www.youtube.com/watch?v=ISiWkYITwnQ\n\nKwils87\nhttps://www.reddit.com/r/WatchPeopleDieInside/comments/yqmv8y/my_friend_trying_to_bring_his_glass_table_indoors/\n\nyourcrystalshop\nhttps://www.tiktok.com/t/ZTRQUBQ9U/\n\nBTEKScalesLLC\nhttps://www.facebook.com/BTEKScalesLLC/videos/1118935105426297\n\nFail Army\nhttps://www.tiktok.com/t/ZTRt5DxLo/\n\naryn_thompson\nhttps://www.tiktok.com/t/ZTRt5UCx7/\n\nNewsflare\nhttps://www.newsflare.com/video/441849/thats-gotta-hurt-dog-breaks-out-into-a-sprint-and-slams-owner-holding-onto-its-leash-into-the-railing-in-connecticut?a=on\n\nBuzz Videos via Dailymotion\nhttps://www.dailymotion.com/video/x8eoy7m\n\naaron_vs_the_internet\nhttps://www.instagram.com/reel/Cklj5VjgwCi/?igshid=YmMyMTA2M2Y=\n\ndockrgolf\nhttps://www.instagram.com/reel/CkdorERAlvq/?igshid=YWJhMjlhZTc=\n\nCrappyDesigned\nhttps://twitter.com/CrappyDesigned/status/1613497292094574594\n\nEd Davidson\nhttps://www.linkedin.com/posts/ed-davidson-744b016_eddavidson-safedy-ugcPost-6568130869574320128-Xnzp?utm_source=share&utm_medium=member_desktop\n\nAT305DrSimon\nhttps://www.reddit.com/r/failarmy/comments/z6lhn1/wheel_has_his_own_life_now/\n\nNew Merch - https://shopmrbeast.com\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast6000/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast\n•  Instagram - https://www.instagram.com/beastreacts\n\n--------------------------------------------------------------------"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "C_MrJaPiytHAl8U20vBWElupNqw",
+            "id": "3SnkoIOHvCc",
+            "snippet": {
+                "publishedAt": "2023-02-15T01:00:04Z",
+                "channelId": "UC648rgJOboZlgcDbW00vTSA",
+                "title": "Fuerza Regida x Becky G - Te Quiero Besar [Official Video]",
+                "description": "Suscríbete: https://Rancho.lnk.to/RHYoutube\n\nFuerza Regida x Becky G - Te Quiero Besar\nDirected by Miguel\nExecutive Producer Jimmy Humilde & Jesus Ortiz Paz\n\n🎶Paginas Oficiales De Rancho Humilde\nSpotify: https://Rancho.lnk.to/RHSpotify\nInstagram: https://Rancho.lnk.to/Instagram\nFacebook:https://Rancho.lnk.to/RHFacebook\n\nYouTube Playlists 📢📢  | Corridos \nMix En Vivo: https://bit.ly/CorridosENVIVO   \nMix Corridos Videos Oficiales: https://bit.ly/CorridosRanchoHumilde \n\n#FuerzaRegida #BeckyG #RanchoHumilde",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3SnkoIOHvCc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3SnkoIOHvCc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3SnkoIOHvCc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3SnkoIOHvCc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3SnkoIOHvCc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Rancho Humilde",
+                "tags": [
+                    "Rancho Humilde",
+                    "Rancho",
+                    "Jimmy Humilde",
+                    "Natanael Cano",
+                    "Fuerza Regida",
+                    "Arsenal Efectivo",
+                    "Alta Consigna",
+                    "Junior H",
+                    "Corridos Tumbados",
+                    "Corridos",
+                    "Regional urbano",
+                    "Clika",
+                    "SMO",
+                    "regional mexicano",
+                    "Trap",
+                    "Banda",
+                    "Becky G",
+                    "Te Quiero Besar",
+                    "Amor",
+                    "Dia De San Valentin",
+                    "Musica Romantica",
+                    "Bebe Dame",
+                    "Pa Que Hablen",
+                    "Sigan Hablando",
+                    "Te Quiero Besar Letra",
+                    "fuerza regida x becky g",
+                    "fuerza regida vs becky g",
+                    "fuerza regida becky g",
+                    "fuerza regida te quiero besar",
+                    "te quiero besar fuerza regida"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Fuerza Regida x Becky G - Te Quiero Besar [Official Video]",
+                    "description": "Suscríbete: https://Rancho.lnk.to/RHYoutube\n\nFuerza Regida x Becky G - Te Quiero Besar\nDirected by Miguel\nExecutive Producer Jimmy Humilde & Jesus Ortiz Paz\n\n🎶Paginas Oficiales De Rancho Humilde\nSpotify: https://Rancho.lnk.to/RHSpotify\nInstagram: https://Rancho.lnk.to/Instagram\nFacebook:https://Rancho.lnk.to/RHFacebook\n\nYouTube Playlists 📢📢  | Corridos \nMix En Vivo: https://bit.ly/CorridosENVIVO   \nMix Corridos Videos Oficiales: https://bit.ly/CorridosRanchoHumilde \n\n#FuerzaRegida #BeckyG #RanchoHumilde"
+                },
+                "defaultAudioLanguage": "es-MX"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "etMJK2xT62A2MgoQZgax-745fU4",
+            "id": "AyKWeOmEUbs",
+            "snippet": {
+                "publishedAt": "2023-02-14T22:28:33Z",
+                "channelId": "UCET00YnetHT7tOpu12v8jxg",
+                "title": "AC Milan vs. Tottenham: Extended Highlights | UCL Round of 16 - Leg 1 | CBS Sports Golazo",
+                "description": "Serie A reigning champions AC Milan host Tottenham and Antonio Conte, the former manager of their heated local rivals Inter.\n\nStream every UEFA Champions League match live on Paramount+:\nhttps://www.paramountplus.com/shows/uefa-champions-league/\n \n#UCL #ChampionsLeague #UEFA #acmilan  #milan  #tottenham #tottenhamhotspur #harrykane #giroud",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AyKWeOmEUbs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AyKWeOmEUbs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AyKWeOmEUbs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AyKWeOmEUbs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AyKWeOmEUbs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CBS Sports Golazo",
+                "tags": [
+                    "FC Bayern München",
+                    "Paris Saint-Germain",
+                    "Paris Saint-Germain vs. FC Bayern München"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "AC Milan vs. Tottenham: Extended Highlights | UCL Round of 16 - Leg 1 | CBS Sports Golazo",
+                    "description": "Serie A reigning champions AC Milan host Tottenham and Antonio Conte, the former manager of their heated local rivals Inter.\n\nStream every UEFA Champions League match live on Paramount+:\nhttps://www.paramountplus.com/shows/uefa-champions-league/\n \n#UCL #ChampionsLeague #UEFA #acmilan  #milan  #tottenham #tottenhamhotspur #harrykane #giroud"
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "b5-pL226gX_vRHpIi4JRQ0DIVEA",
+            "id": "4iRwVVPJ8sk",
+            "snippet": {
+                "publishedAt": "2023-02-15T16:00:12Z",
+                "channelId": "UCaSgsFdGbwjfdawl3rOXiwQ",
+                "title": "Dead by Daylight | Tools Of Torment | Official Trailer",
+                "description": "Keep your eyes to the sky.\n\nAvailable March 7. \n\nLearn More: https://dbd.game/3jRNRQR\n\n\nDead by Daylight is a multiplayer action/horror game where one player takes on the role of a brutal Killer and the other four play as Survivors. As a Killer your goal is to sacrifice as many Survivors as possible. As Survivors your goal is to work together to evade, escape, and most importantly – stay alive.      \n\nPLAY DEAD BY DAYLIGHT: https://buythegame.deadbydaylight.com/   \n\nJoin the official forum:  https://forums.bhvr.com/dead-by-daylight/\n\n Like and follow us on our official Social Media Channels:     \n- Facebook:  https://facebook.com/DeadByDaylight\n- Twitter:  https://twitter.com/DeadByBHVR\n- Instagram:  https://www.instagram.com/deadbydaylight/\n\nMusic by Michel F. April",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4iRwVVPJ8sk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4iRwVVPJ8sk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4iRwVVPJ8sk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4iRwVVPJ8sk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4iRwVVPJ8sk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Dead by Daylight",
+                "tags": [
+                    "dead by daylight",
+                    "dbd",
+                    "behaviour interactive",
+                    "bhvr",
+                    "slasher game",
+                    "survival horror",
+                    "Tools of Torment",
+                    "Renato Lyra",
+                    "Thalita Lyra",
+                    "The Skull Merchant"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Dead by Daylight | Tools Of Torment | Official Trailer",
+                    "description": "Keep your eyes to the sky.\n\nAvailable March 7. \n\nLearn More: https://dbd.game/3jRNRQR\n\n\nDead by Daylight is a multiplayer action/horror game where one player takes on the role of a brutal Killer and the other four play as Survivors. As a Killer your goal is to sacrifice as many Survivors as possible. As Survivors your goal is to work together to evade, escape, and most importantly – stay alive.      \n\nPLAY DEAD BY DAYLIGHT: https://buythegame.deadbydaylight.com/   \n\nJoin the official forum:  https://forums.bhvr.com/dead-by-daylight/\n\n Like and follow us on our official Social Media Channels:     \n- Facebook:  https://facebook.com/DeadByDaylight\n- Twitter:  https://twitter.com/DeadByBHVR\n- Instagram:  https://www.instagram.com/deadbydaylight/\n\nMusic by Michel F. April"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "TrE6AbJsMQz996n-6XTk2FjQ2G8",
+            "id": "g9WgLz5Ax0U",
+            "snippet": {
+                "publishedAt": "2023-02-15T02:05:50Z",
+                "channelId": "UCWp_G4HibeE-H05kTgjdq6g",
+                "title": "WE'RE ENGAGED | The Proposal Video",
+                "description": "I get to marry my best friend. I am so happy you guys are along for the ride :)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/g9WgLz5Ax0U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/g9WgLz5Ax0U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/g9WgLz5Ax0U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/g9WgLz5Ax0U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/g9WgLz5Ax0U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Mei Mei",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "WE'RE ENGAGED | The Proposal Video",
+                    "description": "I get to marry my best friend. I am so happy you guys are along for the ride :)"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "mnRm8w-hJgRC5RJMJ9fh7pE2Mow",
+            "id": "m4MaxyzD8oM",
+            "snippet": {
+                "publishedAt": "2023-02-14T20:00:13Z",
+                "channelId": "UClyGlKOhDUooPJFy4v_mqPg",
+                "title": "Planet Coaster, but a random disaster happens every 5 minutes",
+                "description": "Everything can be solved by adding more bathrooms.\n\nThis was streamed live on Twitch! https://bit.ly/DougTwitch\nFull stream recording: \nPt. 1: https://www.youtube.com/watch?v=fZgsC6cLohI\nPt. 2: https://www.youtube.com/watch?v=XUzgyKUeREc\n\nEdited by Keke! https://twitter.com/CozyKeke\n\nMy 2nd Channel: http://bit.ly/dougdoug2\nTwitter: https://twitter.com/DougDougFood\nSubscribe: https://bit.ly/dougdougsubsub\n\nMore DugDug:\nLatest Uploads: https://www.youtube.com/watch?v=rp4cH7mb4X4&list=PLzTxt5iYdhziB3Zf03HR_aZWgJ49ffj-d&index=2\nDougDoug Challenges: https://www.youtube.com/playlist?list=PLzTxt5iYdhzh_SW60_g3HPVjBupwUZOFA\nPopular Videos: https://www.youtube.com/playlist?list=PLzTxt5iYdhzgrLpm-SQNNAVOw0gVs8Iu_\n\nMusic Credits (in order of appearance):\n\nGran Turismo 2 - Bonus\nSuper Mario 3D World - Hands-On Hall\nRez OST - 01 - Buggie Running Beeps 01\nStar Fox Assault - Theme of Star Fox Assault\nThe Simpsons Hit & Run - Simpsons Hotline\nBowser’s Fury - Pounce Bounce Isle\nClassical - Also Sprach Zarathustra\nDr. Kawashima’s Brain Training - Title Screen\nPunch-Out - Main Theme\nHyrule Warriors Age of Calamity - Guardian Menace (Enemy Keep)\nClassical - Ride of the Valkyries\nOverwatch - Play of the Game Theme\nMario & Sonic at the Sochi 2014 Olympic Winter Games - Bowser’s Galaxy Generator\nBayonetta 2 - A Present From Rodin (A)\nKirby and the Forgotten Land - Pitch-Black Horror\nPhoenix Wright Dual Destinies - Pursuit Keep Pressing On\nMario Kart 8 - Dolphin Shoals (Underwater)\nSmash Bros Brawl - Encounter\nDonkey Kong Country - Simian Segue\nZelda Wind Waker - Molgera Battle\nSuper Mario Galaxy 2 - Clock Time Attack\nHyrule Warriors Age of Calamity - Royal Research\nThe Sims - Some Assembly Required\nProfessor Layton & The Diabolical Box - Moment of Rest (Live Version)\nAnimal Crossing New Horizons - Welcome Horizons\nDeathloop - Anonymous (Aleksis Dorsey)\nMario Kart 8 - Grand Prix Recap (SFX)\nFE Three Houses - Blue Skies and a Battle (Rain)\nMario Kart 8 - Cloudtop Cruise\nClassical - Hall of the Mountain King\n[Dual Destinies - Suspicious People\nBayonetta 2 - Shopping (B)\nMario Kart 8 - GCN Baby Park\nClassical - Blue Danube\nBeyond Good and Evil - Ambience Snare\nXenoblade Chronicles 3 - Born to Fight\nXenoblade Chronicles 3 - Event BGM 110\nMiitopia Princess\nZelda Twilight Princess - Hidden Village\nPepsi Man - Theme Song\nSuper Mario Galaxy - King Kaliente\nClassical - Also Sprach Zarathustra\nYakuza 0 - Interplanetary\nPepsi Man - Theme Song\nRing Fit Adventure - Smoothie\nXenoblade Chronicles 3 - Chain Attack\nGran Turismo 5 - Feels So Good\nMario Kart 7 - Main Menu\nKirby Air Ride - City Trial\nKirby and the Forgotten Land - Abandoned Beach\nSea of Thieves - Maiden Voyage\nJet Set Radio - Sneakman\nSonic Generations - Crisis City (Modern)\nSuper Mario Galaxy 2 - Koopas Lava Empire\nSuper Mario Galaxy 2 - The New Galactic Empire\n\n\nAbout DougDoug:\nDoug is a sentient bell pepper who was hired by the FBI to crack gaming challenges and also talk about things with food\n\n#Classroom #DougDoug #planetcoaster",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/m4MaxyzD8oM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/m4MaxyzD8oM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/m4MaxyzD8oM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/m4MaxyzD8oM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/m4MaxyzD8oM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "DougDoug",
+                "tags": [
+                    "DougDoug",
+                    "DougDoug Youtube Channel",
+                    "Channel Youtube DougDoug",
+                    "doug doug",
+                    "twitch",
+                    "twitch chat",
+                    "dougdoug twitch chat",
+                    "twitch chat plays",
+                    "dougdoug twitch",
+                    "planet coaster",
+                    "evil janitors",
+                    "pepsi",
+                    "sim games",
+                    "simulation game",
+                    "funny planet coaster",
+                    "dougdoug clips",
+                    "divorce island",
+                    "pirates",
+                    "rollercoaster",
+                    "rollercoaster sim",
+                    "planet coaster challenge"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Planet Coaster, but a random disaster happens every 5 minutes",
+                    "description": "Everything can be solved by adding more bathrooms.\n\nThis was streamed live on Twitch! https://bit.ly/DougTwitch\nFull stream recording: \nPt. 1: https://www.youtube.com/watch?v=fZgsC6cLohI\nPt. 2: https://www.youtube.com/watch?v=XUzgyKUeREc\n\nEdited by Keke! https://twitter.com/CozyKeke\n\nMy 2nd Channel: http://bit.ly/dougdoug2\nTwitter: https://twitter.com/DougDougFood\nSubscribe: https://bit.ly/dougdougsubsub\n\nMore DugDug:\nLatest Uploads: https://www.youtube.com/watch?v=rp4cH7mb4X4&list=PLzTxt5iYdhziB3Zf03HR_aZWgJ49ffj-d&index=2\nDougDoug Challenges: https://www.youtube.com/playlist?list=PLzTxt5iYdhzh_SW60_g3HPVjBupwUZOFA\nPopular Videos: https://www.youtube.com/playlist?list=PLzTxt5iYdhzgrLpm-SQNNAVOw0gVs8Iu_\n\nMusic Credits (in order of appearance):\n\nGran Turismo 2 - Bonus\nSuper Mario 3D World - Hands-On Hall\nRez OST - 01 - Buggie Running Beeps 01\nStar Fox Assault - Theme of Star Fox Assault\nThe Simpsons Hit & Run - Simpsons Hotline\nBowser’s Fury - Pounce Bounce Isle\nClassical - Also Sprach Zarathustra\nDr. Kawashima’s Brain Training - Title Screen\nPunch-Out - Main Theme\nHyrule Warriors Age of Calamity - Guardian Menace (Enemy Keep)\nClassical - Ride of the Valkyries\nOverwatch - Play of the Game Theme\nMario & Sonic at the Sochi 2014 Olympic Winter Games - Bowser’s Galaxy Generator\nBayonetta 2 - A Present From Rodin (A)\nKirby and the Forgotten Land - Pitch-Black Horror\nPhoenix Wright Dual Destinies - Pursuit Keep Pressing On\nMario Kart 8 - Dolphin Shoals (Underwater)\nSmash Bros Brawl - Encounter\nDonkey Kong Country - Simian Segue\nZelda Wind Waker - Molgera Battle\nSuper Mario Galaxy 2 - Clock Time Attack\nHyrule Warriors Age of Calamity - Royal Research\nThe Sims - Some Assembly Required\nProfessor Layton & The Diabolical Box - Moment of Rest (Live Version)\nAnimal Crossing New Horizons - Welcome Horizons\nDeathloop - Anonymous (Aleksis Dorsey)\nMario Kart 8 - Grand Prix Recap (SFX)\nFE Three Houses - Blue Skies and a Battle (Rain)\nMario Kart 8 - Cloudtop Cruise\nClassical - Hall of the Mountain King\n[Dual Destinies - Suspicious People\nBayonetta 2 - Shopping (B)\nMario Kart 8 - GCN Baby Park\nClassical - Blue Danube\nBeyond Good and Evil - Ambience Snare\nXenoblade Chronicles 3 - Born to Fight\nXenoblade Chronicles 3 - Event BGM 110\nMiitopia Princess\nZelda Twilight Princess - Hidden Village\nPepsi Man - Theme Song\nSuper Mario Galaxy - King Kaliente\nClassical - Also Sprach Zarathustra\nYakuza 0 - Interplanetary\nPepsi Man - Theme Song\nRing Fit Adventure - Smoothie\nXenoblade Chronicles 3 - Chain Attack\nGran Turismo 5 - Feels So Good\nMario Kart 7 - Main Menu\nKirby Air Ride - City Trial\nKirby and the Forgotten Land - Abandoned Beach\nSea of Thieves - Maiden Voyage\nJet Set Radio - Sneakman\nSonic Generations - Crisis City (Modern)\nSuper Mario Galaxy 2 - Koopas Lava Empire\nSuper Mario Galaxy 2 - The New Galactic Empire\n\n\nAbout DougDoug:\nDoug is a sentient bell pepper who was hired by the FBI to crack gaming challenges and also talk about things with food\n\n#Classroom #DougDoug #planetcoaster"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "lkKqd_hDGhaX4XgWtsUXCp5Bs_Q",
+            "id": "kh1Hz1HIJDE",
+            "snippet": {
+                "publishedAt": "2023-02-14T15:00:36Z",
+                "channelId": "UCyQ-DUV6lZgoL8wiPusYiUg",
+                "title": "CENTRAL CEE | CHICKEN SHOP DATE",
+                "description": "Amelia meets Central Cee for a date in a Chicken Shop \n\nCreated and Written by Amelia Dimoldenberg \nDirector: Amelia Dimoldenberg\n\nCo-Written by Liv West\n\nExecutive Producers: Liv West and Amelia Dimoldenberg\nProduction Assistant: Diara Vassalo Ndiaye\n\nCam A: Jonathan Moore\nCam B: Tayo Yusuff \n\nSound Op: Paul O’Hare\nEditor: Joe Bolger\n\nConform: Lewis Ashley\nColourist: Fraser Twitchett @ Okay Studio \nSound Design/Mix: Mark Duckett @ Bounce\nVFX: Richard Russell & Paul Hanford\n\nAnimation by Naomi Anderson-Subryan \nSocial Media: Jade Whiteley & Ashleigh Kybert \nPhotographer: Norah Sanghani\n\nWardrobe: Chloe Griffin\nHair: Ellie Fox",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kh1Hz1HIJDE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kh1Hz1HIJDE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kh1Hz1HIJDE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kh1Hz1HIJDE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kh1Hz1HIJDE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Amelia Dimoldenberg",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "CENTRAL CEE | CHICKEN SHOP DATE",
+                    "description": "Amelia meets Central Cee for a date in a Chicken Shop \n\nCreated and Written by Amelia Dimoldenberg \nDirector: Amelia Dimoldenberg\n\nCo-Written by Liv West\n\nExecutive Producers: Liv West and Amelia Dimoldenberg\nProduction Assistant: Diara Vassalo Ndiaye\n\nCam A: Jonathan Moore\nCam B: Tayo Yusuff \n\nSound Op: Paul O’Hare\nEditor: Joe Bolger\n\nConform: Lewis Ashley\nColourist: Fraser Twitchett @ Okay Studio \nSound Design/Mix: Mark Duckett @ Bounce\nVFX: Richard Russell & Paul Hanford\n\nAnimation by Naomi Anderson-Subryan \nSocial Media: Jade Whiteley & Ashleigh Kybert \nPhotographer: Norah Sanghani\n\nWardrobe: Chloe Griffin\nHair: Ellie Fox"
+                },
+                "defaultAudioLanguage": "en-GB"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "z37iYXw4x6vJHTABtcWVNwUsTQA",
+            "id": "hhvdn3ZqQ0I",
+            "snippet": {
+                "publishedAt": "2023-02-14T17:02:02Z",
+                "channelId": "UCsEukrAd64fqA7FjwkmZ_Dw",
+                "title": "Emma Chamberlain & ROLE MODEL Take a Couples Quiz | GQ",
+                "description": "It's the Couples Quiz! In this episode, we're putting Emma Chamberlain and Role Model's relationship to the test. They ask each other all sorts of questions (and hopefully know the answers).\r\n\r\nSee more about Emma and Role Model here: https://www.gq.com/story/gq-hype-emma-chamberlain-role-model\n\nStill haven’t subscribed to GQ on YouTube? ►► http://bit.ly/2iij5wt\r\nSubscribe to GQ magazine and get rare swag: https://bit.ly/2xNBH3i\r\nJoin the GQ Discord to talk men's fashion, watches, and more: https://discord.gg/gqmagazine\r\n\r\nABOUT GQ\r\nFor more than 50 years, GQ has been the premier men’s magazine, providing definitive coverage of style, culture, politics and more. In that tradition, GQ’s video channel covers every part of a man’s life, from entertainment and sports to fashion and grooming advice. Welcome to the modern guide to style advice, dating tips, celebrity videos, music, sports and more.\r\n\r\nhttps://www.youtube.com/user/GQVideos",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hhvdn3ZqQ0I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hhvdn3ZqQ0I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hhvdn3ZqQ0I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hhvdn3ZqQ0I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hhvdn3ZqQ0I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "GQ",
+                "tags": [
+                    "couples quiz",
+                    "emma chamberlain",
+                    "emma chamberlain 2023",
+                    "emma chamberlain and role model",
+                    "emma chamberlain boyfriend",
+                    "emma chamberlain couples quiz",
+                    "emma chamberlain gq",
+                    "emma chamberlain interview",
+                    "emma chamberlain new",
+                    "emma chamberlain role model",
+                    "emma chamberlain role model couples quiz",
+                    "gq",
+                    "gq couples",
+                    "gq couples quiz",
+                    "gq emma chamberlain",
+                    "gq magazine",
+                    "new emma chamberlain",
+                    "role model",
+                    "role model emma chamberlain"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Emma Chamberlain & ROLE MODEL Take a Couples Quiz | GQ",
+                    "description": "It's the Couples Quiz! In this episode, we're putting Emma Chamberlain and Role Model's relationship to the test. They ask each other all sorts of questions (and hopefully know the answers).\r\n\r\nSee more about Emma and Role Model here: https://www.gq.com/story/gq-hype-emma-chamberlain-role-model\n\nStill haven’t subscribed to GQ on YouTube? ►► http://bit.ly/2iij5wt\r\nSubscribe to GQ magazine and get rare swag: https://bit.ly/2xNBH3i\r\nJoin the GQ Discord to talk men's fashion, watches, and more: https://discord.gg/gqmagazine\r\n\r\nABOUT GQ\r\nFor more than 50 years, GQ has been the premier men’s magazine, providing definitive coverage of style, culture, politics and more. In that tradition, GQ’s video channel covers every part of a man’s life, from entertainment and sports to fashion and grooming advice. Welcome to the modern guide to style advice, dating tips, celebrity videos, music, sports and more.\r\n\r\nhttps://www.youtube.com/user/GQVideos"
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "rI1r9icg4jHEVIrn9PXaWHmlDJ8",
+            "id": "zu2Z_iaV7uA",
+            "snippet": {
+                "publishedAt": "2023-02-14T22:00:36Z",
+                "channelId": "UC4G10tk3AHFuyMIuD3rHOBA",
+                "title": "RDC VS AMP THE BASKETBALL MOVIE",
+                "description": "🥷🏾s was HOOPING!!! Or were they 👀\nBig thanks to Round Rock Sport Center for letting us film there!\n\n🌎RDC's SOCIALS🌎\nMark - @SupremeDreams_1\nAff - @Affiong\nLeland - @23_Is_Leland\nDylan - @DylanPatel4_\nDesmond - @l0v3andPeac3\nBenjamin - @Ive_Ben_Jammin\nJohn - @PlayThatJohn\n\n⚡️AMP⚡️\nFanum\nhttps://www.youtube.com/c/FanumReacts/videos\nDuke\nhttps://www.youtube.com/c/DeeBlockDukeDennis\nAgent\nhttps://www.youtube.com/user/CallMeAgent00\nDavis\nhttps://www.youtube.com/c/ItsDavisss\nKai\nhttps://www.youtube.com/c/KaiCenat\nChrisnxtdoor\nhttps://www.youtube.com/watch?v=yEREEVk06ZM&t=0s\n\n🌎 REAL DREAMS CHANGE THE WORLD 🌎\n💜 DISCORD: https://discord.gg/rdcworld1\n🗣️ TWITTER: https://twitter.com/RDCworld1\n📷 IG: https://www.instagram.com/rdcworld1/\n👔 MERCH: https://rdcworld1.com/shop\n🎮 GAMING CHANNEL: https://www.youtube.com/channel/UCW0uwJNcMTiOFXXgyS2no4g\n👾 TWITCH: https://www.twitch.tv/rdcgaming\n☁️ DREAM CON: https://www.dreamconvention.com\n🎵 SOUNDCLOUD: https://soundcloud.com/rdcworld",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zu2Z_iaV7uA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zu2Z_iaV7uA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zu2Z_iaV7uA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zu2Z_iaV7uA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zu2Z_iaV7uA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "RDCworld1",
+                "categoryId": "23",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "RDC VS AMP THE BASKETBALL MOVIE",
+                    "description": "🥷🏾s was HOOPING!!! Or were they 👀\nBig thanks to Round Rock Sport Center for letting us film there!\n\n🌎RDC's SOCIALS🌎\nMark - @SupremeDreams_1\nAff - @Affiong\nLeland - @23_Is_Leland\nDylan - @DylanPatel4_\nDesmond - @l0v3andPeac3\nBenjamin - @Ive_Ben_Jammin\nJohn - @PlayThatJohn\n\n⚡️AMP⚡️\nFanum\nhttps://www.youtube.com/c/FanumReacts/videos\nDuke\nhttps://www.youtube.com/c/DeeBlockDukeDennis\nAgent\nhttps://www.youtube.com/user/CallMeAgent00\nDavis\nhttps://www.youtube.com/c/ItsDavisss\nKai\nhttps://www.youtube.com/c/KaiCenat\nChrisnxtdoor\nhttps://www.youtube.com/watch?v=yEREEVk06ZM&t=0s\n\n🌎 REAL DREAMS CHANGE THE WORLD 🌎\n💜 DISCORD: https://discord.gg/rdcworld1\n🗣️ TWITTER: https://twitter.com/RDCworld1\n📷 IG: https://www.instagram.com/rdcworld1/\n👔 MERCH: https://rdcworld1.com/shop\n🎮 GAMING CHANNEL: https://www.youtube.com/channel/UCW0uwJNcMTiOFXXgyS2no4g\n👾 TWITCH: https://www.twitch.tv/rdcgaming\n☁️ DREAM CON: https://www.dreamconvention.com\n🎵 SOUNDCLOUD: https://soundcloud.com/rdcworld"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "zMXoH49m4-nBIfP2bkF04B4agSY",
+            "id": "ZRUjD2YHg3A",
+            "snippet": {
+                "publishedAt": "2023-02-14T20:35:27Z",
+                "channelId": "UCpkyh0kLgCzPv_XqS-xmP2w",
+                "title": "Finally filling you in",
+                "description": "FOLLOW ALONG 👇\n\nLO'S INSTAGRAM: https://www.instagram.com/lobeeston/\nLO'S TIK TOK: https://vm.tiktok.com/CFy2TT/\nTANNER'S INSTAGRAM: https://www.instagram.com/tbeesto\nTANNER’S TIK TOK: https://www.tiktok.com/@tbeesto?source=h5_m",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZRUjD2YHg3A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZRUjD2YHg3A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZRUjD2YHg3A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZRUjD2YHg3A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZRUjD2YHg3A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Beeston Bunch",
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Finally filling you in",
+                    "description": "FOLLOW ALONG 👇\n\nLO'S INSTAGRAM: https://www.instagram.com/lobeeston/\nLO'S TIK TOK: https://vm.tiktok.com/CFy2TT/\nTANNER'S INSTAGRAM: https://www.instagram.com/tbeesto\nTANNER’S TIK TOK: https://www.tiktok.com/@tbeesto?source=h5_m"
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "IYOzoSabVzmyrlyN5jvgyEFl4P8",
+            "id": "xTaIZo8OJYE",
+            "snippet": {
+                "publishedAt": "2023-02-15T17:00:01Z",
+                "channelId": "UCf5CjDJvsFvtVIhkfmKAwAA",
+                "title": "CREED III | Final Trailer",
+                "description": "Brothers turn enemies. Watch the final trailer for #Creed3 now, starring Michael B. Jordan, Jonathan Majors, and Tessa Thompson. See the film only in theaters March 3.\n\nFollow #Creed3 on Social:\nInstagram: https://www.instagram.com/creedmovie/\nTwitter: https://twitter.com/creedmovie\nFacebook: https://www.facebook.com/creedmovie/\n\nCREED III\nDirected By: Michael B. Jordan\nScreenplay By: Keenan Coogler and Zach Baylin\nStory By: Ryan Coogler, Keenan Coogler, and Zach Baylin\nCast: Michael B. Jordan, Tessa Thompson, Jonathan Majors, Florian Munteanu\n\nAbout MGM Studios: Metro Goldwyn Mayer (MGM) is a leading entertainment company focused on the production and global distribution of film and television content across all platforms. The company owns one of the world’s deepest libraries of premium film and television content as well as the premium pay television network MGM+, which is available throughout the U.S. via cable, satellite, telco and digital distributors.  In addition, MGM has investments in numerous other television channels, digital platforms and interactive ventures and is producing premium short-form content for distribution. \n\nConnect with MGM Studios Online\nVisit the MGM Studios WEBSITE: http://www.mgm.com/\nCheck out MGM on TIKTOK: https://www.tiktok.com/@mgmstudios/ \nFollow MGM Studios on INSTAGRAM: https://www.instagram.com/mgmstudios/ \nFollow MGM Studios on TWITTER: https://twitter.com/mgmstudios\nLike MGM Studios on FACEBOOK: https://www.facebook.com/mgm/ \n\nCREED III | Final Trailer\nhttps://www.youtube.com/MGM",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xTaIZo8OJYE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xTaIZo8OJYE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xTaIZo8OJYE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xTaIZo8OJYE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xTaIZo8OJYE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MGM",
+                "tags": [
+                    "MGM",
+                    "MGM Studios",
+                    "Metro-Goldwyn- Mayer",
+                    "Metro Pictures Corporations",
+                    "Goldwyn Pictures",
+                    "Louis B. Mayer Pictures",
+                    "MGM Pictures",
+                    "United Artists",
+                    "Metro MGM/UA",
+                    "Creed III",
+                    "Creed 3",
+                    "Creed 3 Trailer",
+                    "Creed III Trailer",
+                    "Creed Trailer",
+                    "Michael B Jordan",
+                    "official trailer",
+                    "Tessa Thompson",
+                    "Jonathan Majors",
+                    "new movies",
+                    "new movies 2023",
+                    "creed III final trailer",
+                    "creed 3 final trailer"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "CREED III | Final Trailer",
+                    "description": "Brothers turn enemies. Watch the final trailer for #Creed3 now, starring Michael B. Jordan, Jonathan Majors, and Tessa Thompson. See the film only in theaters March 3.\n\nFollow #Creed3 on Social:\nInstagram: https://www.instagram.com/creedmovie/\nTwitter: https://twitter.com/creedmovie\nFacebook: https://www.facebook.com/creedmovie/\n\nCREED III\nDirected By: Michael B. Jordan\nScreenplay By: Keenan Coogler and Zach Baylin\nStory By: Ryan Coogler, Keenan Coogler, and Zach Baylin\nCast: Michael B. Jordan, Tessa Thompson, Jonathan Majors, Florian Munteanu\n\nAbout MGM Studios: Metro Goldwyn Mayer (MGM) is a leading entertainment company focused on the production and global distribution of film and television content across all platforms. The company owns one of the world’s deepest libraries of premium film and television content as well as the premium pay television network MGM+, which is available throughout the U.S. via cable, satellite, telco and digital distributors.  In addition, MGM has investments in numerous other television channels, digital platforms and interactive ventures and is producing premium short-form content for distribution. \n\nConnect with MGM Studios Online\nVisit the MGM Studios WEBSITE: http://www.mgm.com/\nCheck out MGM on TIKTOK: https://www.tiktok.com/@mgmstudios/ \nFollow MGM Studios on INSTAGRAM: https://www.instagram.com/mgmstudios/ \nFollow MGM Studios on TWITTER: https://twitter.com/mgmstudios\nLike MGM Studios on FACEBOOK: https://www.facebook.com/mgm/ \n\nCREED III | Final Trailer\nhttps://www.youtube.com/MGM"
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "egjPiG7qjychTdOiRjNbtyYG4bU",
+            "id": "ar28Y-Zqonk",
+            "snippet": {
+                "publishedAt": "2023-02-15T15:15:00Z",
+                "channelId": "UCfE5Cz44GlZVyoaYTHJbuZw",
+                "title": "I accidentally Butter-Aged Steaks for 4yrs and ate it!",
+                "description": "I love to experiment with steaks and all types of meat. But, today might be the most intense experiment of my life. The fact that this took 4yrs is insane. But I am so glad we are trying this. In the end we are always learning something new. \n\nBuy Guga's Rub: https://shop.gugafoods.com/\nGet my cook book: https://linktr.ee/shop.guga\n\n* Become a MEMBER of GUGAFOODS *\nhttps://www.youtube.com/channel/UCfE5Cz44GlZVyoaYTHJbuZw/join\n-----------------------------------------------\nSUBSCRIBE to this Channel\nhttps://www.youtube.com/gugafoods?sub_confirmation=1\n----------------------------------------------- \nSubscribe to my Sous Vide Cooking Channel\nhttps://www.youtube.com/SousVideEverything?sub_confirmation=1\n-----------------------------------------------\nSubscribe to my NEW Channel\nhttps://www.youtube.com/channel/UCnB5HTIi44wDBD56KeT2hNA?sub_confirmation=1\n-----------------------------------------------\n* Guga MERCH *\nShirts and More: https://gugamerch.com/\n-----------------------------------------------\nMy SOCIAL MEDIA, Let's connect!\nTikTok: https://www.tiktok.com/@gugafoods\nInstagram: https://www.instagram.com/gugafoods/\nFacebook: https://www.facebook.com/gugafoods/\n-----------------------------------------------\n* MAIL TIME Want to send something?\n13876 SW 56th Street (№128)\nMiami FL 33175\n\n* Steaks by Grand Western Steaks\nTheir Website: https://bit.ly/2XuwIMX \nUse Code \"SVE\" for 10% Off any purchase, no restrictions! \n* For Personal Touch Speak to Rep. Emilio (305)310-0559 \nF.Y.I. They have picanha, TELL HIM GUGA SENT YOU!\n\n* My SMOKER and STOVE * \nCamp Chef WOODWIND: https://bit.ly/2BurRVE\nMy Powerful Stove: https://bit.ly/3esNW5j\n\n* My Wireless Smart Thermometer *\nMEATER: https://amzn.to/2VFC6uo\n\n* My Knives *\nEveryday Knives: https://amzn.to/38k1BuI​\nChef Knives: https://amzn.to/3qCo0K5​\nStrong Knives: https://amzn.to/3chCl9x​\nFancy Knives: https://amzn.to/3ekPtxa\n\n* TORCHES OPTIONS *\nFLAMETHOWER: https://grillblazer.com/?ref=Guga\nUse code \"Guga\" for 10% off\nSmall Torch: http://amzn.to/2BWYvv1\n\n* OFTEN USED EQUIPMENT *\nThermometer: https://amzn.to/2ugI8XE\nCast Iron Plates: https://amzn.to/2rAevPp\nMy Salt: https://amzn.to/2tofZgN\nHeat Gloves: https://amzn.to/2HSQwoI\nFlamethrower: https://amzn.to/2QCRcPi\nMini Food Processor: https://amzn.to/2Hca58b\nSteak Cast Iron Plates: http://amzn.to/2FCTYQc\nBBQ Large Tongs: https://amzn.to/2Utcrsr\nBurger Mold: https://amzn.to/2JMh6xW\nTongs Tweezers: https://amzn.to/2M6v3Gm\nFood Grade Gloves: http://amzn.to/2lTd8H4\n\n* BBQ Equipment *\nBest Portable Grill: https://amzn.to/2HUWEww\nMy Stove: https://amzn.to/2DBwP2C\nCharcoal: https://amzn.to/2uK95G2\nFire Starter: http://amzn.to/2F1OFJ2\nSmoke Gun: http://amzn.to/2frGzyO\nSmoke Dome: http://amzn.to/2xAHgj7\nSmoker: http://amzn.to/2lTdCNf\nWood Pellets: http://amzn.to/2mMOR9O\nWeber Grill: http://amzn.to/2mXaIbp \nSlow N Sear: https://amzn.to/2uNwd6p\nHeat Resistant Glove: http://amzn.to/2EZGPnk\nOtto Grill: https://www.ottowildegrillers.com/?ref=14&utm_source=affiliate\n\n* Sous Vide Equipment *\nJoule Sous Vide Circulator: http://amzn.to/2mXdzRI\nAnova Precision Cooker WiFi: http://amzn.to/2mi76T3\nSous Vide Container: http://amzn.to/2merrsb\nSous Vide Container Cover: http://amzn.to/2mbpTxt\nCheap Suction Sealer: http://amzn.to/2mtj1Oi\nSuction Bags: http://amzn.to/2mXfSUO\nBag Holder: http://amzn.to/2vjBYp5\nMini Weight: http://amzn.to/2nF3Q2Q\nGrate Inside Container: http://amzn.to/2pKCxIS (mine is 10x15)\nSteak Rack System: http://amzn.to/2qu0eAK (Choose the right size for you)\n\n**************************************************\n* The link below has EVERYTHING I USE *\nhttps://www.amazon.com/shop/sousvideeverything\n**************************************************\n\n* VIDEO EQUIPMENT *\nMain Camera: http://amzn.to/2imsWSi\n2nd Camera: http://amzn.to/2iqkxxb\nSlow Motion Camera: http://amzn.to/2jTt8J8\nDrone: http://amzn.to/2jSbK7G\nPocket Drone: http://amzn.to/2Aw0NQZ\nGimbal: http://amzn.to/2ilc3HU\nMain Lens: http://amzn.to/2AzKumn\nZoom Lens: http://amzn.to/2BMF7k8\nLarge Travel Camera: http://amzn.to/2ntMidD\nMicrophone: http://amzn.to/2jVU3UC \nSlider: http://amzn.to/2imtPdA\nTripod & Fluid Head: http://amzn.to/2mXhkGs \nVoice Over Mic: http://amzn.to/2n69j1h\nAcoustic Isolation: http://amzn.to/2mMWaxV\n\n* My Music *\nhttp://share.epidemicsound.com/wJ8n7\n\n* If you have any questions please leave a comment below and I will reply. Thank you so much for watching see you on the next video! :-) \n\n* We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n#food #comedy #challenge",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ar28Y-Zqonk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ar28Y-Zqonk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ar28Y-Zqonk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ar28Y-Zqonk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ar28Y-Zqonk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Guga Foods",
+                "tags": [
+                    "cooking",
+                    "steak",
+                    "experiment",
+                    "dry age",
+                    "wagyu",
+                    "expensive",
+                    "cheap",
+                    "recipe",
+                    "best steak",
+                    "steak channel",
+                    "food",
+                    "grill",
+                    "grilling",
+                    "how to grill steaks",
+                    "filet mignon"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "I accidentally Butter-Aged Steaks for 4yrs and ate it!",
+                    "description": "I love to experiment with steaks and all types of meat. But, today might be the most intense experiment of my life. The fact that this took 4yrs is insane. But I am so glad we are trying this. In the end we are always learning something new. \n\nBuy Guga's Rub: https://shop.gugafoods.com/\nGet my cook book: https://linktr.ee/shop.guga\n\n* Become a MEMBER of GUGAFOODS *\nhttps://www.youtube.com/channel/UCfE5Cz44GlZVyoaYTHJbuZw/join\n-----------------------------------------------\nSUBSCRIBE to this Channel\nhttps://www.youtube.com/gugafoods?sub_confirmation=1\n----------------------------------------------- \nSubscribe to my Sous Vide Cooking Channel\nhttps://www.youtube.com/SousVideEverything?sub_confirmation=1\n-----------------------------------------------\nSubscribe to my NEW Channel\nhttps://www.youtube.com/channel/UCnB5HTIi44wDBD56KeT2hNA?sub_confirmation=1\n-----------------------------------------------\n* Guga MERCH *\nShirts and More: https://gugamerch.com/\n-----------------------------------------------\nMy SOCIAL MEDIA, Let's connect!\nTikTok: https://www.tiktok.com/@gugafoods\nInstagram: https://www.instagram.com/gugafoods/\nFacebook: https://www.facebook.com/gugafoods/\n-----------------------------------------------\n* MAIL TIME Want to send something?\n13876 SW 56th Street (№128)\nMiami FL 33175\n\n* Steaks by Grand Western Steaks\nTheir Website: https://bit.ly/2XuwIMX \nUse Code \"SVE\" for 10% Off any purchase, no restrictions! \n* For Personal Touch Speak to Rep. Emilio (305)310-0559 \nF.Y.I. They have picanha, TELL HIM GUGA SENT YOU!\n\n* My SMOKER and STOVE * \nCamp Chef WOODWIND: https://bit.ly/2BurRVE\nMy Powerful Stove: https://bit.ly/3esNW5j\n\n* My Wireless Smart Thermometer *\nMEATER: https://amzn.to/2VFC6uo\n\n* My Knives *\nEveryday Knives: https://amzn.to/38k1BuI​\nChef Knives: https://amzn.to/3qCo0K5​\nStrong Knives: https://amzn.to/3chCl9x​\nFancy Knives: https://amzn.to/3ekPtxa\n\n* TORCHES OPTIONS *\nFLAMETHOWER: https://grillblazer.com/?ref=Guga\nUse code \"Guga\" for 10% off\nSmall Torch: http://amzn.to/2BWYvv1\n\n* OFTEN USED EQUIPMENT *\nThermometer: https://amzn.to/2ugI8XE\nCast Iron Plates: https://amzn.to/2rAevPp\nMy Salt: https://amzn.to/2tofZgN\nHeat Gloves: https://amzn.to/2HSQwoI\nFlamethrower: https://amzn.to/2QCRcPi\nMini Food Processor: https://amzn.to/2Hca58b\nSteak Cast Iron Plates: http://amzn.to/2FCTYQc\nBBQ Large Tongs: https://amzn.to/2Utcrsr\nBurger Mold: https://amzn.to/2JMh6xW\nTongs Tweezers: https://amzn.to/2M6v3Gm\nFood Grade Gloves: http://amzn.to/2lTd8H4\n\n* BBQ Equipment *\nBest Portable Grill: https://amzn.to/2HUWEww\nMy Stove: https://amzn.to/2DBwP2C\nCharcoal: https://amzn.to/2uK95G2\nFire Starter: http://amzn.to/2F1OFJ2\nSmoke Gun: http://amzn.to/2frGzyO\nSmoke Dome: http://amzn.to/2xAHgj7\nSmoker: http://amzn.to/2lTdCNf\nWood Pellets: http://amzn.to/2mMOR9O\nWeber Grill: http://amzn.to/2mXaIbp \nSlow N Sear: https://amzn.to/2uNwd6p\nHeat Resistant Glove: http://amzn.to/2EZGPnk\nOtto Grill: https://www.ottowildegrillers.com/?ref=14&utm_source=affiliate\n\n* Sous Vide Equipment *\nJoule Sous Vide Circulator: http://amzn.to/2mXdzRI\nAnova Precision Cooker WiFi: http://amzn.to/2mi76T3\nSous Vide Container: http://amzn.to/2merrsb\nSous Vide Container Cover: http://amzn.to/2mbpTxt\nCheap Suction Sealer: http://amzn.to/2mtj1Oi\nSuction Bags: http://amzn.to/2mXfSUO\nBag Holder: http://amzn.to/2vjBYp5\nMini Weight: http://amzn.to/2nF3Q2Q\nGrate Inside Container: http://amzn.to/2pKCxIS (mine is 10x15)\nSteak Rack System: http://amzn.to/2qu0eAK (Choose the right size for you)\n\n**************************************************\n* The link below has EVERYTHING I USE *\nhttps://www.amazon.com/shop/sousvideeverything\n**************************************************\n\n* VIDEO EQUIPMENT *\nMain Camera: http://amzn.to/2imsWSi\n2nd Camera: http://amzn.to/2iqkxxb\nSlow Motion Camera: http://amzn.to/2jTt8J8\nDrone: http://amzn.to/2jSbK7G\nPocket Drone: http://amzn.to/2Aw0NQZ\nGimbal: http://amzn.to/2ilc3HU\nMain Lens: http://amzn.to/2AzKumn\nZoom Lens: http://amzn.to/2BMF7k8\nLarge Travel Camera: http://amzn.to/2ntMidD\nMicrophone: http://amzn.to/2jVU3UC \nSlider: http://amzn.to/2imtPdA\nTripod & Fluid Head: http://amzn.to/2mXhkGs \nVoice Over Mic: http://amzn.to/2n69j1h\nAcoustic Isolation: http://amzn.to/2mMWaxV\n\n* My Music *\nhttp://share.epidemicsound.com/wJ8n7\n\n* If you have any questions please leave a comment below and I will reply. Thank you so much for watching see you on the next video! :-) \n\n* We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n#food #comedy #challenge"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "C1Bd5jsNkem3xEYO2nY_36F8O-I",
+            "id": "erR6ZQV5i8E",
+            "snippet": {
+                "publishedAt": "2023-02-15T05:01:24Z",
+                "channelId": "UCU5AbNuMPGB491GcqXuzwKw",
+                "title": "$UICIDEBOY$ x SHAKEWELL - BIG SHOT CREAM SODA (Lyric Video)",
+                "description": "Official Lyric Video for “BIG SHOT CREAM SODA” by $uicideboy$ x Shakewell\n\nFollow $uicideboy$\nInstagram: https://www.instagram.com/suicideboys/\nFacebook: https://www.facebook.com/suicideboys/\nTwitter: https://twitter.com/SUICIDEBOYS\n\nFollow Shakewell\nInstagram: https://www.instagram.com/shakewell\nTwitter: https://www.twitter.com/ShakeWell818",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/erR6ZQV5i8E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/erR6ZQV5i8E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/erR6ZQV5i8E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/erR6ZQV5i8E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/erR6ZQV5i8E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "$uicideboy$",
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "$UICIDEBOY$ x SHAKEWELL - BIG SHOT CREAM SODA (Lyric Video)",
+                    "description": "Official Lyric Video for “BIG SHOT CREAM SODA” by $uicideboy$ x Shakewell\n\nFollow $uicideboy$\nInstagram: https://www.instagram.com/suicideboys/\nFacebook: https://www.facebook.com/suicideboys/\nTwitter: https://twitter.com/SUICIDEBOYS\n\nFollow Shakewell\nInstagram: https://www.instagram.com/shakewell\nTwitter: https://www.twitter.com/ShakeWell818"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "FniEvX4WNfFKftwoag6jcTyXos8",
+            "id": "4dF6byrUW5s",
+            "snippet": {
+                "publishedAt": "2023-02-15T17:54:32Z",
+                "channelId": "UC-sjC5fKKsrpcZRJwlZJzZQ",
+                "title": "DOUBLE PUMP is HERE!",
+                "description": "epic did a big oopsie... \n\nLIKE and SUBSCRIBE!\nWATCH ME LIVE ON TWITCH! https://twitch.tv/McCreamy\nJoin my Notification Crew: click the 🔔 Bell & on Twitch click the 💜\n\n🐦 TWITTER - https://twitter.com/McCreamy\n📷 INSTAGRAM - https://instagram.com/mccreamy\n\nFor more Fortnite Chapter 4 Season New Update Battle Royale gameplay watch me live at\nhttps://twitch.tv/McCreamy\n\nMusic ▼\n\n▶ Video Music: Epidemic Sounds\n▶ Outro Music: https://goo.gl/MrwCEu\n\nStill reading, what are you doing? Hit that Subscribe button already or you won't get a high elimination victory royale against stream snipers ( ͡° ͜ʖ ͡°)\n\nepic fortnite chapter 4 moments\n\nUSE CODE CREAMY IN THE FORTNITE ITEM SHOP",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4dF6byrUW5s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4dF6byrUW5s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4dF6byrUW5s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4dF6byrUW5s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4dF6byrUW5s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "McCreamy",
+                "tags": [
+                    "fortnite",
+                    "fortnite battle royale",
+                    "fortnite gameplay",
+                    "challenge",
+                    "epic",
+                    "mccreamy",
+                    "new",
+                    "update",
+                    "memes",
+                    "funny moments",
+                    "glitches",
+                    "funny",
+                    "video games",
+                    "gaming",
+                    "fortnite best plays",
+                    "fortnite challenges",
+                    "epic games",
+                    "fortnite glitches",
+                    "fortnite glitch",
+                    "free vbucks",
+                    "fortnite vbucks",
+                    "fortnite moments",
+                    "new fortnite season",
+                    "new fortnite",
+                    "fortnite new",
+                    "battlepass",
+                    "fortnite update",
+                    "new fortnite update",
+                    "fortnite chapter 4",
+                    "chapter 4",
+                    "fortnite new update",
+                    "fortnite wanted",
+                    "fortnite exotic",
+                    "mcreamy"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "DOUBLE PUMP is HERE!",
+                    "description": "epic did a big oopsie... \n\nLIKE and SUBSCRIBE!\nWATCH ME LIVE ON TWITCH! https://twitch.tv/McCreamy\nJoin my Notification Crew: click the 🔔 Bell & on Twitch click the 💜\n\n🐦 TWITTER - https://twitter.com/McCreamy\n📷 INSTAGRAM - https://instagram.com/mccreamy\n\nFor more Fortnite Chapter 4 Season New Update Battle Royale gameplay watch me live at\nhttps://twitch.tv/McCreamy\n\nMusic ▼\n\n▶ Video Music: Epidemic Sounds\n▶ Outro Music: https://goo.gl/MrwCEu\n\nStill reading, what are you doing? Hit that Subscribe button already or you won't get a high elimination victory royale against stream snipers ( ͡° ͜ʖ ͡°)\n\nepic fortnite chapter 4 moments\n\nUSE CODE CREAMY IN THE FORTNITE ITEM SHOP"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "gNljKWCZigJjWP9xHLMVGNHGkMU",
+            "id": "pMvfS5mbsiI",
+            "snippet": {
+                "publishedAt": "2023-02-15T15:00:10Z",
+                "channelId": "UCEIs9nkveW9WmYtsOcJBwTg",
+                "title": "ITCHY BOOTS  New Season: this is where I am going!",
+                "description": "In this episode, the new season of Itchy Boots is finally beginning! I have waited for this moment for months but finally my Honda CRF300Rally 'Alaska\" has arrived back from Alaska and I am ready to kick off new adventures!! \n\nWant to learn how to use drones, GoPros and 360 cameras to film your solo motorcycle adventure? Check out: www.itchyboots.com/academy \n\nHere I teach all my filming techniques including getting drone shots while riding!\n\nFollow my journey on: WWW.ITCHYBOOTS.COM\nInstagram:   https://www.instagram.com/itchybootstravel\nFacebook:     https://www.facebook.com/itchyboots\n\n\n#itchyboots #adventure #crf300rally",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pMvfS5mbsiI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pMvfS5mbsiI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pMvfS5mbsiI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pMvfS5mbsiI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pMvfS5mbsiI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Itchy Boots",
+                "tags": [
+                    "dual purpose bike",
+                    "RTW",
+                    "round the world on motorbike",
+                    "adv rider",
+                    "motorbike traveller",
+                    "female motorcycle traveler",
+                    "solo female traveller",
+                    "honda",
+                    "crf300l",
+                    "crf300rally",
+                    "crf300l review",
+                    "adventure rider"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "ITCHY BOOTS  New Season: this is where I am going!",
+                    "description": "In this episode, the new season of Itchy Boots is finally beginning! I have waited for this moment for months but finally my Honda CRF300Rally 'Alaska\" has arrived back from Alaska and I am ready to kick off new adventures!! \n\nWant to learn how to use drones, GoPros and 360 cameras to film your solo motorcycle adventure? Check out: www.itchyboots.com/academy \n\nHere I teach all my filming techniques including getting drone shots while riding!\n\nFollow my journey on: WWW.ITCHYBOOTS.COM\nInstagram:   https://www.instagram.com/itchybootstravel\nFacebook:     https://www.facebook.com/itchyboots\n\n\n#itchyboots #adventure #crf300rally"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "T0mozyVqocPn4z9GsgLzvU38wsA",
+            "id": "y1cBhJLNNXU",
+            "snippet": {
+                "publishedAt": "2023-02-14T20:00:08Z",
+                "channelId": "UCBJn8qy6bI82Oh34kzHViPQ",
+                "title": "beabadoobee - Glue Song",
+                "description": "beabadoobee - Glue Song (Official Video) \nOut now - http://beabadoobee.ffm.to/gluesong\n\nDirected by Bea and Jake x\n\nDOP / Editor - Jake Erland @jakerland\nDirector's Agents - Polly Millner @pollymillner + Sam Davey @samboydavey\nProduction Company - OB @obmanagement \nService Production Company - Blend Films @blend.films\nEP's - Sam Holmes @kvlto +  Marija Djikic @marija.djikic \nProducer - Liam Wallace-Cook @liamwallacecook\nPA - Laura Manners @lauramannersphotography\n\nShot on @kodak 16mm Film\nDev + Scan - Cinelab @cinelabuk\n\nColourist - Tim Smith @timotheous\nColour Producer - Charlie Morris @no8ldn\n\nRunner Driver - Gabriel Browne @gabe_browne\n\nDirty Hit 2023 \n\nLyrics:\n\nI've never known someone like you\nTangled in love stuck by you\nFrom the glue\nDon't forget to kiss me\nOr else you'll have to miss me\n\nI guess I'm stuck forever\nBy the glue, oh, and you\n\nFinding the right words\nTo use for this song\nI have you in mind\nSo it won't take so long\nNever thought I'd find you\nBut you're here\nAnd so I love you\n\nI'm not wrong\nWhen I say I've been stuck\nBy the glue onto you\nI've been stuck by the glue\nRight onto you\nI've been stuck by the glue\n\nI've never known\nI've never known\nI've never known someone like you, you\nI've never known\n\n\nhttp://vevo.ly/kc0MWi",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/y1cBhJLNNXU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/y1cBhJLNNXU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/y1cBhJLNNXU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/y1cBhJLNNXU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/y1cBhJLNNXU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "beabadoobeeVEVO",
+                "tags": [
+                    "beabadoobee",
+                    "Glue",
+                    "Song",
+                    "Dirty",
+                    "Hit",
+                    "Pop"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "beabadoobee - Glue Song",
+                    "description": "beabadoobee - Glue Song (Official Video) \nOut now - http://beabadoobee.ffm.to/gluesong\n\nDirected by Bea and Jake x\n\nDOP / Editor - Jake Erland @jakerland\nDirector's Agents - Polly Millner @pollymillner + Sam Davey @samboydavey\nProduction Company - OB @obmanagement \nService Production Company - Blend Films @blend.films\nEP's - Sam Holmes @kvlto +  Marija Djikic @marija.djikic \nProducer - Liam Wallace-Cook @liamwallacecook\nPA - Laura Manners @lauramannersphotography\n\nShot on @kodak 16mm Film\nDev + Scan - Cinelab @cinelabuk\n\nColourist - Tim Smith @timotheous\nColour Producer - Charlie Morris @no8ldn\n\nRunner Driver - Gabriel Browne @gabe_browne\n\nDirty Hit 2023 \n\nLyrics:\n\nI've never known someone like you\nTangled in love stuck by you\nFrom the glue\nDon't forget to kiss me\nOr else you'll have to miss me\n\nI guess I'm stuck forever\nBy the glue, oh, and you\n\nFinding the right words\nTo use for this song\nI have you in mind\nSo it won't take so long\nNever thought I'd find you\nBut you're here\nAnd so I love you\n\nI'm not wrong\nWhen I say I've been stuck\nBy the glue onto you\nI've been stuck by the glue\nRight onto you\nI've been stuck by the glue\n\nI've never known\nI've never known\nI've never known someone like you, you\nI've never known\n\n\nhttp://vevo.ly/kc0MWi"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "yZxhm_rtprCFKsFUSFmIZ7m4ABc",
+            "id": "TYPFenJQciw",
+            "snippet": {
+                "publishedAt": "2023-02-14T14:59:37Z",
+                "channelId": "UCsXVk37bltHxD1rDPwtNM8Q",
+                "title": "You Are an Impossible Machine",
+                "description": "Go ‘beyond the nutshell’ at https://brilliant.org/nutshell/ and dive deeper into these topics and more with a free 30-day trial!\nThis video was sponsored by Brilliant. Thanks a lot for the support!\n\nSources & further reading:\nhttps://sites.google.com/view/sources-impossible-machines/\n\nYou are cells. Your muscles, organs, skin and hair. They are in your blood and in your bones.\nCells are biological robots. They don’t want anything, they don’t feel anything. They are never sad or happy. They just are, right here, right now. They are as conscious as a stone or a chair or a neutron star. Cells just follow their programming that has been evolving and changing for billions of years, molded by natural selection. \nThey are impossible machines and yet, here they are, driven entirely by the fundamental forces of the universe. The smallest unit of life, right at the border where physics becomes biology. \nSometimes, to get a truer understanding of how amazing something is, you need to hold your breath and dive in really  deep. So, what are cells and how do they work?\n\n\nOUR CHANNELS\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nGerman:        https://kgs.link/youtubeDE\nSpanish:        https://kgs.link/youtubeES\nFrench:          https://kgs.link/youtubeFR\nPortuguese:  https://kgs.link/youtubePT\nArabic:           https://kgs.link/youtubeAR\nHindi:             https://kgs.link/youtubeHI\nJapanese:     https://kgs.link/youtubeJA\nKorean:          https://kgs.link/youtubeKO\n\n\nHOW CAN YOU SUPPORT US?\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nThis is how we make our living and it would be a pleasure if you support us!\n\nGet Prodcuts designed with ❤ https://shop-us.kurzgesagt.org  \nJoin the Patreon Bird Army 🐧  https://kgs.link/patreon  \n\n\nDISCUSSIONS & SOCIAL MEDIA\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nTikTok:           https://kgs.link/tiktok\nReddit:            https://kgs.link/reddit\nInstagram:     https://kgs.link/instagram\nTwitter:           https://kgs.link/twitter\nFacebook:      https://kgs.link/facebook\nDiscord:          https://kgs.link/discord\nNewsletter:    https://kgs.link/newsletter\n\n\nOUR VOICE\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nThe Kurzgesagt voice is from \nSteve Taylor:  https://kgs.link/youtube-voice\n\n\nOUR MUSIC ♬♪\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n700+ minutes of Kurzgesagt Soundtracks by Epic Mountain:\n\nSpotify:            https://kgs.link/music-spotify\nSoundcloud:   https://kgs.link/music-soundcloud\nBandcamp:     https://kgs.link/music-bandcamp\nYoutube:          https://kgs.link/music-youtube\nFacebook:       https://kgs.link/music-facebook\n\nThe Soundtrack of this video:\nSoundcloud: http://bit.ly/40SPhef\nBandcamp: https://bit.ly/3jSgMnF\n\nIf you want to help us caption this video, please send subtitles to subtitle@kurzgesagt.org\nYou can find info on what subtitle files work on YouTube here:\nhttps://support.google.com/youtube/answer/2734698?hl=en-GB&ref_topic=7296214\nThank you!\n\n🐦🐧🐤 PATREON BIRD ARMY 🐤🐧🐦\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nMany Thanks to our wonderful Patreons (from http://kgs.link/patreon) who support us every month and made this video possible:\nMads Egedal Kirchhoff, HARUKI SATO, Ian Roberts, Chris Sloan, Joe Cowman, Ben Douglas, Eric Kimbrel, Robin Ellenbroek, Leslie Andrew Ridings, Alaskarina Haze, Joss Wright, Kerstin Borggrewe, Brian Stanke, Justaperson102, Nick Alvarez, Tony Spears, William Parker, matrop, Vilena5, Ian Sénéchal, Simon Fischer, Paul Aqua, Joey Button, Joshua, Rigers Qeraj, Hamza S, Matthias Foss, Andy D, Tetsuro Kiyooka, Biljana, richardpoulson, Bonzai Garden, Diego Dias Ribeiro da Silva, Kaefersam, Johnny, CookieEroy, Cheesecake King, GHOST96, Patrick Zollondz, Rhys McGauran, Philipp G, Dennis Hippe, TakatukaUltra95, Niggl, Nivek, Earnur 5, Rex Vanhoff, gaetan thoraval, Christian Harshbarger, PANZER KAT, Kelley Green, Kenny Lin, JHD, Michal Hoblík, Millennial Glacier, CuratorViper, James Gill, 4bstr, Fabian Maurer, Michael Willis, Jacob Ord",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TYPFenJQciw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TYPFenJQciw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TYPFenJQciw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TYPFenJQciw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TYPFenJQciw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kurzgesagt – In a Nutshell",
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-GB",
+                "localized": {
+                    "title": "You Are an Impossible Machine",
+                    "description": "Go ‘beyond the nutshell’ at https://brilliant.org/nutshell/ and dive deeper into these topics and more with a free 30-day trial!\nThis video was sponsored by Brilliant. Thanks a lot for the support!\n\nSources & further reading:\nhttps://sites.google.com/view/sources-impossible-machines/\n\nYou are cells. Your muscles, organs, skin and hair. They are in your blood and in your bones.\nCells are biological robots. They don’t want anything, they don’t feel anything. They are never sad or happy. They just are, right here, right now. They are as conscious as a stone or a chair or a neutron star. Cells just follow their programming that has been evolving and changing for billions of years, molded by natural selection. \nThey are impossible machines and yet, here they are, driven entirely by the fundamental forces of the universe. The smallest unit of life, right at the border where physics becomes biology. \nSometimes, to get a truer understanding of how amazing something is, you need to hold your breath and dive in really  deep. So, what are cells and how do they work?\n\n\nOUR CHANNELS\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nGerman:        https://kgs.link/youtubeDE\nSpanish:        https://kgs.link/youtubeES\nFrench:          https://kgs.link/youtubeFR\nPortuguese:  https://kgs.link/youtubePT\nArabic:           https://kgs.link/youtubeAR\nHindi:             https://kgs.link/youtubeHI\nJapanese:     https://kgs.link/youtubeJA\nKorean:          https://kgs.link/youtubeKO\n\n\nHOW CAN YOU SUPPORT US?\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nThis is how we make our living and it would be a pleasure if you support us!\n\nGet Prodcuts designed with ❤ https://shop-us.kurzgesagt.org  \nJoin the Patreon Bird Army 🐧  https://kgs.link/patreon  \n\n\nDISCUSSIONS & SOCIAL MEDIA\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nTikTok:           https://kgs.link/tiktok\nReddit:            https://kgs.link/reddit\nInstagram:     https://kgs.link/instagram\nTwitter:           https://kgs.link/twitter\nFacebook:      https://kgs.link/facebook\nDiscord:          https://kgs.link/discord\nNewsletter:    https://kgs.link/newsletter\n\n\nOUR VOICE\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nThe Kurzgesagt voice is from \nSteve Taylor:  https://kgs.link/youtube-voice\n\n\nOUR MUSIC ♬♪\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n700+ minutes of Kurzgesagt Soundtracks by Epic Mountain:\n\nSpotify:            https://kgs.link/music-spotify\nSoundcloud:   https://kgs.link/music-soundcloud\nBandcamp:     https://kgs.link/music-bandcamp\nYoutube:          https://kgs.link/music-youtube\nFacebook:       https://kgs.link/music-facebook\n\nThe Soundtrack of this video:\nSoundcloud: http://bit.ly/40SPhef\nBandcamp: https://bit.ly/3jSgMnF\n\nIf you want to help us caption this video, please send subtitles to subtitle@kurzgesagt.org\nYou can find info on what subtitle files work on YouTube here:\nhttps://support.google.com/youtube/answer/2734698?hl=en-GB&ref_topic=7296214\nThank you!\n\n🐦🐧🐤 PATREON BIRD ARMY 🐤🐧🐦\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nMany Thanks to our wonderful Patreons (from http://kgs.link/patreon) who support us every month and made this video possible:\nMads Egedal Kirchhoff, HARUKI SATO, Ian Roberts, Chris Sloan, Joe Cowman, Ben Douglas, Eric Kimbrel, Robin Ellenbroek, Leslie Andrew Ridings, Alaskarina Haze, Joss Wright, Kerstin Borggrewe, Brian Stanke, Justaperson102, Nick Alvarez, Tony Spears, William Parker, matrop, Vilena5, Ian Sénéchal, Simon Fischer, Paul Aqua, Joey Button, Joshua, Rigers Qeraj, Hamza S, Matthias Foss, Andy D, Tetsuro Kiyooka, Biljana, richardpoulson, Bonzai Garden, Diego Dias Ribeiro da Silva, Kaefersam, Johnny, CookieEroy, Cheesecake King, GHOST96, Patrick Zollondz, Rhys McGauran, Philipp G, Dennis Hippe, TakatukaUltra95, Niggl, Nivek, Earnur 5, Rex Vanhoff, gaetan thoraval, Christian Harshbarger, PANZER KAT, Kelley Green, Kenny Lin, JHD, Michal Hoblík, Millennial Glacier, CuratorViper, James Gill, 4bstr, Fabian Maurer, Michael Willis, Jacob Ord"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "LdDsHxR_nt-ttdRlDaX6fxeUqnU",
+            "id": "w9Km4iVsUeQ",
+            "snippet": {
+                "publishedAt": "2023-02-14T19:14:56Z",
+                "channelId": "UCVe_RrR9AMeY6Z8ixOv5gtw",
+                "title": "Our Baby Update!!! Finding Out The Genders of Our Future Baby!!",
+                "description": "Watch Shane's new podcast! https://youtu.be/4h-QukGkKOk\nFollow Shane! https://www.instagram.com/shanedawson/?hl=en \nWatch Shane's new series!! https://www.youtube.com/watch?v=s3WFAONOFhs&t=2511s \n\n*Watch my latest podcast! https://youtu.be/zdNN9169KvA\nSubscribe to Lizze: https://www.youtube.com/c/ElizabethGordon\nFollow Lizze https://www.instagram.com/lizze.gordon/?hl=en \nFollow Chris https://www.instagram.com/chrisbstation/?hl=en\n\nFollow me on social media\nInstagram https://www.instagram.com/rylandadams/\ntwitter https://twitter.com/Ryland_Adams \n\nCheck out my Mom's amazon store! https://www.amazon.com/shop/influencer-e17144ae \n\nHope you have a great day!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w9Km4iVsUeQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w9Km4iVsUeQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w9Km4iVsUeQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/w9Km4iVsUeQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/w9Km4iVsUeQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ryland vlogs",
+                "tags": [
+                    "Ryland Adams",
+                    "Shane Dawson",
+                    "Ryland Vlogs",
+                    "Comedy",
+                    "Home",
+                    "Vlogs"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Our Baby Update!!! Finding Out The Genders of Our Future Baby!!",
+                    "description": "Watch Shane's new podcast! https://youtu.be/4h-QukGkKOk\nFollow Shane! https://www.instagram.com/shanedawson/?hl=en \nWatch Shane's new series!! https://www.youtube.com/watch?v=s3WFAONOFhs&t=2511s \n\n*Watch my latest podcast! https://youtu.be/zdNN9169KvA\nSubscribe to Lizze: https://www.youtube.com/c/ElizabethGordon\nFollow Lizze https://www.instagram.com/lizze.gordon/?hl=en \nFollow Chris https://www.instagram.com/chrisbstation/?hl=en\n\nFollow me on social media\nInstagram https://www.instagram.com/rylandadams/\ntwitter https://twitter.com/Ryland_Adams \n\nCheck out my Mom's amazon store! https://www.amazon.com/shop/influencer-e17144ae \n\nHope you have a great day!"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "RdiKcPMhEajeqfZ2aP61qgwGzjs",
+            "id": "oU8pRqufwl0",
+            "snippet": {
+                "publishedAt": "2023-02-15T02:40:07Z",
+                "channelId": "UCjjw7ZzY3FlOTRzUfdi54ug",
+                "title": "Shy Glizzy - Fools Fall N Love (feat. NBA Youngboy) [Official Video]",
+                "description": "The official video for Shy Glizzy's \"Fools Fall N Love (feat. @NbaYoungBoy) - Out Now!\n\nStream \"Fools Fall N Love\" on all platforms: \nhttps://shyglizzy.ffm.to/flowers\n\nSubscribe: https://shyglizzy.ffm.to/subscribe\n\nFollow Shy Glizzy:\nhttps://glizzygang.com/store/\nhttps://twitter.com/ShyGlizzy\nhttps://www.facebook.com/JefeOfficial/\nhttps://www.instagram.com/jefe/\nhttps://soundcloud.com/fortrappersonly\n\n#ShyGlizzy #NBAYoungboy #officialvideo\n\n--\n© 2023 Glizzy Gang under exclusive license to 300 Entertainment",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oU8pRqufwl0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oU8pRqufwl0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oU8pRqufwl0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oU8pRqufwl0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oU8pRqufwl0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Glizzy Gang",
+                "tags": [
+                    "Shy Glizzy",
+                    "Glizzy",
+                    "GG",
+                    "Glizzy Gang",
+                    "DMV",
+                    "Crew",
+                    "Grammys",
+                    "Hip Hop",
+                    "WSHH",
+                    "Fully Loaded",
+                    "young thug",
+                    "shy glizzy new song",
+                    "white girl",
+                    "white girl shy glizzy",
+                    "21 savage shy glizzy",
+                    "slime-u-out official",
+                    "slime-u-out",
+                    "21 savage",
+                    "21 her loss",
+                    "21 shy",
+                    "slime you out",
+                    "slime u out",
+                    "21 glizzy",
+                    "21",
+                    "shy glizzy - slime-u-out",
+                    "slime-u-out (feat. 21 Savage)",
+                    "feat 21 Savage",
+                    "Shy Glizzy - Slime-U-Out (feat. 21 Savage) [Official Visualizer]",
+                    "drake 21",
+                    "shy glizzy slime",
+                    "slime you out feat. 21 savage"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Shy Glizzy - Fools Fall N Love (feat. NBA Youngboy) [Official Video]",
+                    "description": "The official video for Shy Glizzy's \"Fools Fall N Love (feat. @NbaYoungBoy) - Out Now!\n\nStream \"Fools Fall N Love\" on all platforms: \nhttps://shyglizzy.ffm.to/flowers\n\nSubscribe: https://shyglizzy.ffm.to/subscribe\n\nFollow Shy Glizzy:\nhttps://glizzygang.com/store/\nhttps://twitter.com/ShyGlizzy\nhttps://www.facebook.com/JefeOfficial/\nhttps://www.instagram.com/jefe/\nhttps://soundcloud.com/fortrappersonly\n\n#ShyGlizzy #NBAYoungboy #officialvideo\n\n--\n© 2023 Glizzy Gang under exclusive license to 300 Entertainment"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "XlEWjzMWcOE_7zXuRt2dfnECiok",
+            "id": "2QP-xrG0kZk",
+            "snippet": {
+                "publishedAt": "2023-02-15T13:29:52Z",
+                "channelId": "UC1Myj674wRVXB9I4c6Hm5zA",
+                "title": "Extrapolations — Official Trailer | Apple TV+",
+                "description": "Watch your future unfold. From the writer of Contagion comes Extrapolations, premiering March 17 on Apple TV+ https://apple.co/_Extrapolations\n\nExtrapolations is a bracing drama from writer, director and executive producer Scott Z. Burns that introduces a near future where the chaotic effects of climate change have become embedded into our everyday lives. Eight interwoven stories about love, work, faith and family from across the globe will explore the intimate, life-altering choices that must be made when the planet is changing faster than the population. Every story is different, but the fight for our future is universal. And when the fate of humanity is up against a ticking clock, the battle between courage and complacency has never been more urgent. Are we brave enough to become the solution to our own undoing before it’s too late?\n\nThe series stars Meryl Streep, Sienna Miller, Kit Harington, Daveed Diggs, Edward Norton, Diane Lane, Tahar Rahim, Yara Shahidi, Matthew Rhys, Gemma Chan, David Schwimmer, Adarsh Gourav, Keri Russell, Marion Cotillard, Forest Whitaker, Eiza González, Murray Bartlett, Indira Varma, Tobey Maguire, MaameYaa Boafo, Hari Nef, Heather Graham, Michael Gandolfini, Cherry Jones, Gaz Choudhry, Ben Harper, Judd Hirsch and Neska Rose. \n\nExtrapolations is executive produced by Burns, Gregory Jacobs, Dorothy Fortenberry and Media Res’ Michael Ellenberg and Lindsey Springer. The series marks another partnership for Apple TV+ and Media Res, joining Emmy, SAG and Critics Choice Award winner “The Morning Show,” and AFI Award-winning series “Pachinko.”\n\nAudio Description Version available: https://apple.co/Extrapolations- \n\nSubscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube\n\nFollow Apple TV:\nInstagram: https://instagram.com/AppleTV\nFacebook: https://facebook.com/AppleTV\nTwitter: https://twitter.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nFollow Apple TV+\nInstagram: https://instagram.com/AppleTVPlus \nTwitter: https://twitter.com/AppleTVPlus\n\nMore from Apple TV: https://apple.co/32qgOEJ\n\nApple TV+ is a streaming service with original stories from the most creative minds in TV and film. Watch now on the Apple TV app: https://apple.co/_AppleTVapp Subscription required for Apple TV+\n\n#Extrapolations #Trailer #AppleTV",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2QP-xrG0kZk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2QP-xrG0kZk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2QP-xrG0kZk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2QP-xrG0kZk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2QP-xrG0kZk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apple TV",
+                "tags": [
+                    "extrapolations",
+                    "trailer",
+                    "trailers",
+                    "extrapolations trailer",
+                    "trailer extrapolations",
+                    "official trailer",
+                    "extrapolations official trailer",
+                    "official trailer extrapolations",
+                    "meryl streep",
+                    "tobey maguire",
+                    "eliza gonzalez",
+                    "kit harington",
+                    "adarsh gourav",
+                    "david schwimmer",
+                    "micheal gandolfini",
+                    "anthology",
+                    "extrapolations tv series",
+                    "extrapolations series",
+                    "tv series",
+                    "series",
+                    "extrapolations apple tv",
+                    "apple tv extrapolations",
+                    "apple tv",
+                    "apple",
+                    "tv",
+                    "apple tv+",
+                    "apple tv app",
+                    "apple original",
+                    "global warming"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Extrapolations — Official Trailer | Apple TV+",
+                    "description": "Watch your future unfold. From the writer of Contagion comes Extrapolations, premiering March 17 on Apple TV+ https://apple.co/_Extrapolations\n\nExtrapolations is a bracing drama from writer, director and executive producer Scott Z. Burns that introduces a near future where the chaotic effects of climate change have become embedded into our everyday lives. Eight interwoven stories about love, work, faith and family from across the globe will explore the intimate, life-altering choices that must be made when the planet is changing faster than the population. Every story is different, but the fight for our future is universal. And when the fate of humanity is up against a ticking clock, the battle between courage and complacency has never been more urgent. Are we brave enough to become the solution to our own undoing before it’s too late?\n\nThe series stars Meryl Streep, Sienna Miller, Kit Harington, Daveed Diggs, Edward Norton, Diane Lane, Tahar Rahim, Yara Shahidi, Matthew Rhys, Gemma Chan, David Schwimmer, Adarsh Gourav, Keri Russell, Marion Cotillard, Forest Whitaker, Eiza González, Murray Bartlett, Indira Varma, Tobey Maguire, MaameYaa Boafo, Hari Nef, Heather Graham, Michael Gandolfini, Cherry Jones, Gaz Choudhry, Ben Harper, Judd Hirsch and Neska Rose. \n\nExtrapolations is executive produced by Burns, Gregory Jacobs, Dorothy Fortenberry and Media Res’ Michael Ellenberg and Lindsey Springer. The series marks another partnership for Apple TV+ and Media Res, joining Emmy, SAG and Critics Choice Award winner “The Morning Show,” and AFI Award-winning series “Pachinko.”\n\nAudio Description Version available: https://apple.co/Extrapolations- \n\nSubscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube\n\nFollow Apple TV:\nInstagram: https://instagram.com/AppleTV\nFacebook: https://facebook.com/AppleTV\nTwitter: https://twitter.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nFollow Apple TV+\nInstagram: https://instagram.com/AppleTVPlus \nTwitter: https://twitter.com/AppleTVPlus\n\nMore from Apple TV: https://apple.co/32qgOEJ\n\nApple TV+ is a streaming service with original stories from the most creative minds in TV and film. Watch now on the Apple TV app: https://apple.co/_AppleTVapp Subscription required for Apple TV+\n\n#Extrapolations #Trailer #AppleTV"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "5JjTYpWTzWxR_skyMutIouWQuuA",
+            "id": "zhNgsaZgdY8",
+            "snippet": {
+                "publishedAt": "2023-02-14T23:27:59Z",
+                "channelId": "UCQZFAQPTQtrFrTu6Hb4vwsw",
+                "title": "Destiny 2 Lore - The Season of the Seraph Finale has changed Literally EVERYTHING in Destiny...",
+                "description": "Destiny 2's Lore and Story ahead of Lightfall has begun. The beginning of the end as Bungie is calling it has started with the Season of the Seraph Finale, where players saw Rasputin's story come to its ultimate conclusion. As the Traveller hangs above earth, The Witness and the Pyramid fleets are now advancing on earth. This season of the Seraph Finale has changed the whole story.\nSubscribe to My name is Byf: http://www.youtube.com/subscription_center?add_user=reachforgenetwork\n\nSupport my lore content on Patreon: https://www.patreon.com/user?ty=h&u=2961923\n\nJoin the community in my Discord Server: https://discord.gg/s8dwrmz\n\nCheck out my channel: https://www.youtube.com/c/MynameisByf\n\nFollow me on Twitter: https://twitter.com/mynameisbyf\n\nLike me on Facebook: http://www.facebook.com/pages/RFN-Reach-Forge-Network/253992467978121",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zhNgsaZgdY8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zhNgsaZgdY8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zhNgsaZgdY8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zhNgsaZgdY8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zhNgsaZgdY8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "My name is Byf",
+                "tags": [
+                    "my name is Byf",
+                    "Destiny",
+                    "Destiny Lore",
+                    "Destiny 2",
+                    "Destiny 2 Lore",
+                    "Season of The Seraph",
+                    "Season of the Seraph Lore",
+                    "Season of the Seraph Finale",
+                    "Traveler Leaves",
+                    "Destiny 2 Traveler Leaves",
+                    "Eramis Shoots the Traveler",
+                    "Traveler Destiny",
+                    "Destiny 2 Traveler",
+                    "Traveler Destiny Lore",
+                    "Rasputin",
+                    "Rasputin Lore",
+                    "Season of the Seraph Rasputin",
+                    "Rasputin shot the traveler",
+                    "Rasputin shoots the Traveler",
+                    "The Witness",
+                    "Eramis",
+                    "Lightfall",
+                    "Destiny 2 Traveler Leaves Cutscene",
+                    "Traveler Leaves Cutscene"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Destiny 2 Lore - The Season of the Seraph Finale has changed Literally EVERYTHING in Destiny...",
+                    "description": "Destiny 2's Lore and Story ahead of Lightfall has begun. The beginning of the end as Bungie is calling it has started with the Season of the Seraph Finale, where players saw Rasputin's story come to its ultimate conclusion. As the Traveller hangs above earth, The Witness and the Pyramid fleets are now advancing on earth. This season of the Seraph Finale has changed the whole story.\nSubscribe to My name is Byf: http://www.youtube.com/subscription_center?add_user=reachforgenetwork\n\nSupport my lore content on Patreon: https://www.patreon.com/user?ty=h&u=2961923\n\nJoin the community in my Discord Server: https://discord.gg/s8dwrmz\n\nCheck out my channel: https://www.youtube.com/c/MynameisByf\n\nFollow me on Twitter: https://twitter.com/mynameisbyf\n\nLike me on Facebook: http://www.facebook.com/pages/RFN-Reach-Forge-Network/253992467978121"
+                },
+                "defaultAudioLanguage": "en-GB"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "U2Sjx-pCEGvvg1jOwHhrTTmk89E",
+            "id": "5m14CQFtNi8",
+            "snippet": {
+                "publishedAt": "2023-02-14T13:59:50Z",
+                "channelId": "UC1Myj674wRVXB9I4c6Hm5zA",
+                "title": "Ted Lasso — Season 3 Official Teaser | Apple TV+",
+                "description": "Richmond Till We Die. Ted Lasso Season 3 premieres March 15 on Apple TV+ https://apple.co/TedLasso\n\nIn this third season of Ted Lasso, the newly-promoted AFC Richmond faces ridicule as media predictions widely peg them as last in the Premier League and Nate (Nick Mohammed), now hailed as the “wonder kid,” has gone to work for Rupert (Anthony Head) at West Ham United. In the wake of Nate’s contentious departure from Richmond, Roy Kent (Brett Goldstein) steps up as assistant coach, alongside Beard (Brendan Hunt). Meanwhile, while Ted (Jason Sudeikis) deals with pressures at work, he continues to wrestle with his own personal issues back home, Rebecca (Hannah Waddingham) is focused on defeating Rupert and Keeley (Juno Temple) navigates being the boss of her own PR agency. Things seem to be falling apart both on and off the pitch, but Team Lasso is set to give it their best shot anyway.\n\nSong: “I Still Believe” by Frank Turner https://apple.co/IStillBelieve_FrankTurner \n\nAudio Description Version available: https://apple.co/TedLasso-\n\nSubscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube\n\nFollow Ted Lasso:\nhttps://twitter.com/TedLasso\n\nFollow AFC Richmond:\nhttps://twitter.com/AFCRichmond\n\nFollow Apple TV:\nInstagram: https://instagram.com/AppleTV\nFacebook: https://facebook.com/AppleTV\nTwitter: https://twitter.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nFollow Apple TV+\nInstagram: https://instagram.com/AppleTVPlus \nTwitter: https://twitter.com/AppleTVPlus\n\nMore from Apple TV: https://apple.co/32qgOEJ\n\nApple TV+ is a streaming service with original stories from the most creative minds in TV and film. Watch now on the Apple TV app: https://apple.co/_AppleTVapp Subscription required for Apple TV+\n\n#TedLasso #Teaser #AppleTV",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5m14CQFtNi8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5m14CQFtNi8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5m14CQFtNi8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5m14CQFtNi8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5m14CQFtNi8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apple TV",
+                "tags": [
+                    "ted lasso",
+                    "ted",
+                    "lasso",
+                    "ted lasso season 3",
+                    "season 3",
+                    "teaser",
+                    "trailer",
+                    "ted lasso trailer",
+                    "ted lasso official trailer",
+                    "official teaser",
+                    "ted lasso apple tv",
+                    "apple tv ted lasso",
+                    "jason sudeikis",
+                    "bill lawrence",
+                    "brett goldstein",
+                    "brendan hunt",
+                    "hannah waddingham",
+                    "juno temple",
+                    "coach lasso",
+                    "coach ted lasso",
+                    "nbc sports",
+                    "afc richmond",
+                    "richmond",
+                    "premier league",
+                    "soccer",
+                    "football",
+                    "apple",
+                    "tv",
+                    "apple tv",
+                    "apple tv+",
+                    "apple tv plus",
+                    "apple tv app",
+                    "apple original",
+                    "apple tv youtube",
+                    "comedy",
+                    "believe"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Ted Lasso — Season 3 Official Teaser | Apple TV+",
+                    "description": "Richmond Till We Die. Ted Lasso Season 3 premieres March 15 on Apple TV+ https://apple.co/TedLasso\n\nIn this third season of Ted Lasso, the newly-promoted AFC Richmond faces ridicule as media predictions widely peg them as last in the Premier League and Nate (Nick Mohammed), now hailed as the “wonder kid,” has gone to work for Rupert (Anthony Head) at West Ham United. In the wake of Nate’s contentious departure from Richmond, Roy Kent (Brett Goldstein) steps up as assistant coach, alongside Beard (Brendan Hunt). Meanwhile, while Ted (Jason Sudeikis) deals with pressures at work, he continues to wrestle with his own personal issues back home, Rebecca (Hannah Waddingham) is focused on defeating Rupert and Keeley (Juno Temple) navigates being the boss of her own PR agency. Things seem to be falling apart both on and off the pitch, but Team Lasso is set to give it their best shot anyway.\n\nSong: “I Still Believe” by Frank Turner https://apple.co/IStillBelieve_FrankTurner \n\nAudio Description Version available: https://apple.co/TedLasso-\n\nSubscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube\n\nFollow Ted Lasso:\nhttps://twitter.com/TedLasso\n\nFollow AFC Richmond:\nhttps://twitter.com/AFCRichmond\n\nFollow Apple TV:\nInstagram: https://instagram.com/AppleTV\nFacebook: https://facebook.com/AppleTV\nTwitter: https://twitter.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nFollow Apple TV+\nInstagram: https://instagram.com/AppleTVPlus \nTwitter: https://twitter.com/AppleTVPlus\n\nMore from Apple TV: https://apple.co/32qgOEJ\n\nApple TV+ is a streaming service with original stories from the most creative minds in TV and film. Watch now on the Apple TV app: https://apple.co/_AppleTVapp Subscription required for Apple TV+\n\n#TedLasso #Teaser #AppleTV"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        }
+    ],
+    "nextPageToken": "CBkQAA",
+    "pageInfo": {
+        "totalResults": 200,
+        "resultsPerPage": 25
+    }
+}
